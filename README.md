@@ -1,2 +1,1 @@
-# Chigalex1-External-
-Pi Network Pioneers Education External 
+# Chigalex1-Africa Pi Gateway 
