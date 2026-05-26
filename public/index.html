@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Chigalex1</title>
+
+  <style>
+    body{
+      margin:0;
+      padding:0;
+      background:#111;
+      color:white;
+      font-family:Arial, sans-serif;
+      text-align:center;
+    }
+
+    .container{
+      padding:40px;
+    }
+
+    img{
+      width:140px;
+      margin-top:20px;
+    }
+
+    h1{
+      color:#facc15;
+    }
+
+    .card{
+      background:#222;
+      padding:20px;
+      border-radius:12px;
+      margin-top:20px;
+      display:inline-block;
+      width:90%;
+      max-width:500px;
+    }
+
+    button{
+      background:#facc15;
+      border:none;
+      padding:12px 24px;
+      border-radius:8px;
+      cursor:pointer;
+      font-size:16px;
+      margin-top:20px;
+    }
+
+    button:hover{
+      background:#eab308;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <img src="logo.png" alt="Logo">
+
+    <h1>Welcome to Chigalex1</h1>
+
+    <div class="card">
+      <p>Your Pi Ecosystem app is now running successfully on Render.</p>
+
+      <button onclick="hello()">
+        Test App
+      </button>
+    </div>
+
+  </div>
+
+  <script>
+    function hello(){
+      alert("Chigalex1 is working successfully!");
+    }
+  </script>
+
+</body>
+</html>
