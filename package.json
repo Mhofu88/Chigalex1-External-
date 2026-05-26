@@ -1,0 +1,12 @@
+{
+  "name": "africa-pioneers-hub",
+  "version": "1.0.0",
+  "description": "Africa Pioneers Education Hub",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
