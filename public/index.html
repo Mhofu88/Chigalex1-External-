@@ -654,62 +654,7 @@ Africa Pioneers Education Hub
 © 2026 CHIGALEX1 - Africa Pioneers Education Hub
 </footer>
 
-<script>
-
-const translations = {
-    English: {
-        welcome: "WELCOME TO CHIGALEX1",
-        gateway: "Gateway to Empowering Africa Through the Pi Ecosystem"
-    },
-
-    Swahili: {
-        welcome: "KARIBU CHIGALEX1",
-        gateway: "Lango la Kuimarisha Afrika Kupitia Mfumo wa Pi"
-    },
-
-    French: {
-        welcome: "BIENVENUE À CHIGALEX1",
-        gateway: "Passerelle vers l'autonomisation de l'Afrique grâce à l'écosystème Pi"
-    },
-
-    Portuguese: {
-        welcome: "BEM-VINDO AO CHIGALEX1",
-        gateway: "Portal para fortalecer África através do Ecossistema Pi"
-    },
-
-    Arabic: {
-        welcome: "مرحبًا بكم في CHIGALEX1",
-        gateway: "بوابة لتمكين أفريقيا من خلال نظام Pi البيئي"
-    },
-
-    Shona: {
-        welcome: "MAKAGAMUCHIRWA KU CHIGALEX1",
-        gateway: "Mukova wekusimudzira Africa kuburikidza nePi Ecosystem"
-    },
-
-    Zulu: {
-        welcome: "SIYAKWAMUKELA KU-CHIGALEX1",
-        gateway: "Isango lokunika amandla i-Afrika ngePi Ecosystem"
-    }
-};
-
-const selector = document.querySelector(".language-select");
-
-selector.addEventListener("change", function() {
-
-    const language = this.value;
-
-    if(translations[language]){
-
-        document.querySelector("h2").innerText =
-            translations[language].welcome;
-
-        document.querySelector("header p").innerText =
-            translations[language].gateway;
-    }
-});
-
-</script>
+<script src="translations.js"></script>
 
 </body>
 </html>
