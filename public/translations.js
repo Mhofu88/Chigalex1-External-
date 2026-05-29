@@ -1,3 +1,5 @@
+translations.js
+
 const translations = {
 
 English: {
