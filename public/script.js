@@ -32,3 +32,5 @@ function setLanguage(lang) {
     document.getElementById("final").innerText =
         translations[lang].final;
 }
+console.log("script.js loaded");
+console.log(translations);
