@@ -34,3 +34,6 @@ function setLanguage(lang) {
 }
 console.log("script.js loaded");
 console.log(translations);
+
+console.log("CHIGALEX1 script loaded");
+console.log(translations);
