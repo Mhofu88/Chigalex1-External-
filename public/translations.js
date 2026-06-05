@@ -13,17 +13,6 @@ premium: "Premium Pi Browser Membership Hub",
 final: "Together We Build. Together We Educate. Together We Empower Africa Through Pi."
 },
 
-Swahili: {
-title: "KARIBU CHIGALEX1",
-gateway: "Lango la Kuimarisha Afrika Kupitia Mfumo wa Pi",
-intro: "PI NETWORK NI NINI?",
-registration: "USAJILI NA KUANZA",
-wallet: "ELIMU YA PI WALLET",
-ecosystem: "KUELEWA MFUMO WA PI",
-premium: "Kituo cha Uanachama cha Premium Pi Browser",
-final: "Pamoja Tunajenga. Pamoja Tunaelimisha. Pamoja Tunawezesha Afrika Kupitia Pi."
-},
-
 French: {
 title: "BIENVENUE À CHIGALEX1",
 gateway: "Passerelle vers l'autonomisation de l'Afrique grâce à l'écosystème Pi",
@@ -46,15 +35,15 @@ premium: "Centro Premium Pi Browser",
 final: "Juntos Construímos. Juntos Educamos. Juntos Fortalecemos África através do Pi."
 },
 
-Arabic: {
-title: "مرحبًا بكم في CHIGALEX1",
-gateway: "بوابة لتمكين أفريقيا من خلال نظام Pi البيئي",
-intro: "ما هو Pi Network؟",
-registration: "التسجيل والبدء",
-wallet: "تعليم محفظة Pi",
-ecosystem: "فهم نظام Pi البيئي",
-premium: "مركز عضوية Pi Browser المميز",
-final: "معًا نبني. معًا نُعلم. معًا نمكّن أفريقيا من خلال Pi."
+Swahili: {
+title: "KARIBU CHIGALEX1",
+gateway: "Lango la Kuimarisha Afrika Kupitia Mfumo wa Pi",
+intro: "PI NETWORK NI NINI?",
+registration: "USAJILI NA KUANZA",
+wallet: "ELIMU YA PI WALLET",
+ecosystem: "KUELEWA MFUMO WA PI",
+premium: "Kituo cha Uanachama cha Premium Pi Browser",
+final: "Pamoja Tunajenga. Pamoja Tunaelimisha. Pamoja Tunawezesha Afrika Kupitia Pi."
 },
 
 Shona: {
@@ -66,6 +55,17 @@ wallet: "DZIDZO YEPI WALLET",
 ecosystem: "KUNZWISISA PI ECOSYSTEM",
 premium: "Premium Pi Browser Membership Hub",
 final: "Pamwe chete tinovaka. Pamwe chete tinodzidzisa. Pamwe chete tinosimudzira Africa kuburikidza nePi."
+},
+
+Ndebele: {
+title: "SIYAKWAMUKELA KU CHIGALEX1",
+gateway: "Isango Lokunika Amandla Afrika Nge Pi Ecosystem",
+intro: "ISINGENISO - YINI I PI NETWORK?",
+registration: "UKUBHALISA LOKUQALISA",
+wallet: "IMFUNDO YE PI WALLET",
+ecosystem: "UKUZWISISA PI ECOSYSTEM",
+premium: "ISIKHUNGO SE PREMIUM PI ECOSYSTEM TRAINING",
+final: "Sakha Ndawonye. Sifundisa Ndawonye. Sinika Amandla Afrika Ngokusetshenziswa Kwe Pi."
 },
 
 Zulu: {
