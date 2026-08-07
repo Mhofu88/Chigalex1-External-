@@ -1,6 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head><!-- PLAYABLE_TOUCH_PATCH_V1 --><script>
+(function() {
+  if (window.__playableTouchPatchInstalled) return;
+  window.__playableTouchPatchInstalled = true;
+  var origAdd = EventTarget.prototype.addEventListener;
+  var blockedTypes = { touchstart: 1, touchmove: 1, wheel: 1 };
+  EventTarget.prototype.addEventListener = function(type, listener, options) {
+    if (blockedTypes[type]) {
+      if (options === undefined || options === null) {
+        options = { passive: true };
+      } else if (typeof options === 'boolean') {
+        options = { capture: options, passive: true };
+      } else {
+        options = Object.assign({}, options, { passive: true });
+      }
+    }
+    return origAdd.call(this, type, listener, options);
+  };
+})();
+</script><script>window.Intl=window.Intl||{};Intl.t=function(s){return(Intl._locale&&Intl._locale[s])||s;};</script>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Africa Pioneers Education Hub - External | CHIGALEX1</title>
 <link rel="stylesheet" href="./css/style.css">
@@ -15,11 +34,12 @@
 </div>
 <div class="container">
   <div class="card">
-    <h3 style="color:#fde047;margin-bottom:10px">Quick Navigation</h3>
+    <h3 style="color:#fde047;margin-bottom:10px" data-i18n="QUICK_NAV">Quick Navigation</h3>
     <div class="toc">
       <a href="#intro">INTRO</a><a href="#ch1">CH1 Registration</a><a href="#ch2">CH2 Wallet</a><a href="#ch2a">CH2A Practical</a><a href="#ch3">CH3 Ecosystem</a><a href="#ch4">CH4 MapOfPi</a><a href="#ch5">CH5 GCV</a><a href="#ch6">CH6 Education</a>
     </div>
   </div>
+
   <div class="card" id="intro">
     <h2 data-i18n="INTRO_TITLE">INTRODUCTION — WHAT IS PI NETWORK?</h2>
     <p data-i18n="INTRO_P1">Pi Network is a global digital currency and ecosystem project designed to make cryptocurrency accessible and useful to everyday people.</p>
@@ -59,14 +79,14 @@
     <p style="margin-top:10px;background:rgba(239,68,68,0.15);padding:10px;border-radius:10px" data-i18n="WALLET_SEC">Wallet Security: Never share your 24 Passphrase words. Whoever controls the passphrase controls the wallet.</p>
   </div>
 
-  <div class="card" id="ch2"><h2 data-i18n="CH2_TITLE">CHAPTER 2 — PI WALLET EDUCATION</h2><p>Learn how to receive and send Pi safely using Pi Wallet in Pi Browser.</p></div>
-  <div class="card" id="ch2a"><h2 data-i18n="CH2A_TITLE">CHAPTER 2A — PRACTICAL PI WALLET TRAINING</h2><p>Start with small test amounts, verify addresses, never share passphrase.</p></div>
-  <div class="card" id="ch3"><h2 data-i18n="CH3_TITLE">CHAPTER 3 — UNDERSTANDING THE PI ECOSYSTEM</h2><p>Pi Browser DApps are decentralized applications for real utility.</p></div>
-  <div class="card" id="ch4"><h2 data-i18n="CH4_TITLE">CHAPTER 4 — MAPOFPI & BUSINESS INTEGRATION</h2><p>Discover Pi-friendly businesses worldwide.</p></div>
-  <div class="card" id="ch5"><h2 data-i18n="CH5_TITLE">CHAPTER 5 — UNDERSTANDING GCV</h2><p>Global Consensus Value promotes real ecosystem utility.</p></div>
-  <div class="card" id="ch6"><h2 data-i18n="CH6_TITLE">CHAPTER 6 — EDUCATION & RESEARCH</h2><p>Study Doris Yin Handbook for utility creation and ecosystem growth.</p></div>
+  <div class="card" id="ch2"><h2 data-i18n="CH2_TITLE">CHAPTER 2 — PI WALLET EDUCATION</h2><p data-i18n="CH2_DESC">Learn how to receive and send Pi safely using Pi Wallet in Pi Browser.</p></div>
+  <div class="card" id="ch2a"><h2 data-i18n="CH2A_TITLE">CHAPTER 2A — PRACTICAL PI WALLET TRAINING</h2><p data-i18n="CH2A_DESC">Start with small test amounts, verify addresses, never share passphrase.</p></div>
+  <div class="card" id="ch3"><h2 data-i18n="CH3_TITLE">CHAPTER 3 — UNDERSTANDING THE PI ECOSYSTEM</h2><p data-i18n="CH3_DESC">Pi Browser DApps are decentralized applications for real utility.</p></div>
+  <div class="card" id="ch4"><h2 data-i18n="CH4_TITLE">CHAPTER 4 — MAPOFPI & BUSINESS INTEGRATION</h2><p data-i18n="CH4_DESC">Discover Pi-friendly businesses worldwide.</p></div>
+  <div class="card" id="ch5"><h2 data-i18n="CH5_TITLE">CHAPTER 5 — UNDERSTANDING GCV</h2><p data-i18n="CH5_DESC">Global Consensus Value promotes real ecosystem utility.</p></div>
+  <div class="card" id="ch6"><h2 data-i18n="CH6_TITLE">CHAPTER 6 — EDUCATION & RESEARCH</h2><p data-i18n="CH6_DESC">Study Doris Yin Handbook for utility creation and ecosystem growth.</p></div>
 
-  <div class="card"><h2 data-i18n="MERCHANT_TITLE">Merchant Integration Education</h2><p>How to join ecosystem, list business on MapOfPi, accept Pi payments.</p></div>
+  <div class="card"><h2 data-i18n="MERCHANT_TITLE">Merchant Integration Education</h2><p data-i18n="MERCHANT_DESC">How to join ecosystem, list business on MapOfPi, accept Pi payments.</p></div>
   <div class="card"><h2 data-i18n="FINAL_MSG">Final Message</h2><p data-i18n="FINAL_P">Africa has an opportunity to become one of the strongest practical utility regions within the Pi Ecosystem. Together We Build. Together We Educate. Together We Empower Africa Through Pi.</p></div>
 </div>
 <footer>© 2026 CHIGALEX1 - Africa Pioneers Education Hub<br>Together We Build</footer>
