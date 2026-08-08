@@ -86,11 +86,18 @@ async function loadLang(l){
   try{
     const r=await fetch(`/locales/${l}/translation.json`);
     const t=await r.json();
-    document.getElementById('welcome-title').textContent=t.WELCOME_TITLE||t.APP_TITLE;
-    if(t.INTRO_TITLE) document.getElementById('intro').textContent=t.INTRO_TITLE;
-  }catch(e){}
+    if(t.WELCOME_TITLE) document.getElementById('welcome-title').textContent = t.WELCOME_TITLE;
+    if(t.INTRO_TITLE) document.getElementById('intro').textContent = t.INTRO_TITLE;
+    // add more if you want full translation:
+    if(t.CH1_TITLE) document.querySelector('#ch1').textContent = t.CH1_TITLE;
+    if(t.CH2_TITLE) document.querySelector('#ch2').textContent = t.CH2_TITLE;
+    if(t.CH3_TITLE) document.querySelector('#ch3').textContent = t.CH3_TITLE;
+    if(t.CH4_TITLE) document.querySelector('#ch4').textContent = t.CH4_TITLE;
+    if(t.CH5_TITLE) document.querySelector('#ch5').textContent = t.CH5_TITLE;
+    if(t.CH6_TITLE) document.querySelector('#ch6').textContent = t.CH6_TITLE;
+  }catch(e){ console.log(e) }
 }
-document.getElementById('lang-switcher').addEventListener('change',e=>loadLang(e.target.value));
+  document.getElementById('lang-switcher').addEventListener('change',e=>loadLang(e.target.value));
 </script>
 </body>
 </html>
