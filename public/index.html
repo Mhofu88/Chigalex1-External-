@@ -1,1 +1,295 @@
-test only 
+<!DOCTYPE html>
+<html lang="en">
+<head><style>
+@font-face {
+  font-family: "Optimistic";
+  font-style: normal;
+  font-weight: 400 600;
+  font-display: swap;
+  src: url("/fonts/OptimisticAI_VF_Optimized.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Optimistic Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/OptimisticMono_W_TextRegular.woff2") format("woff2");
+}
+:where(html) {
+  font-family: "Optimistic", system-ui, sans-serif;
+}
+:where(code, pre, kbd, samp) {
+  font-family: "Optimistic Mono", ui-monospace, monospace;
+}
+</style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chigalex1 - Africa Pioneers Education Hub</title>
+<meta name="description" content="Africa Pioneers Education Hub by Chigalex1 - Learn Pi Network in 24 African Languages">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌍</text></svg>">
+<style>
+  :root{--gold:#f0a500;--dark:#0f0f1a;--card:#1c1c2e;--green:#25D366;--blue:#4da6ff;--red:#ff7b7b}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;background:#0a0a14;color:#e8e8e8;line-height:1.7}
+  .hero{background:linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%);padding:30px 20px 40px;text-align:center;border-bottom:4px solid var(--gold)}
+  .hero h1{font-size:2.2rem;color:var(--gold);margin:10px 0}
+  .hero .subtitle{color:#ccc;font-size:1.1rem}
+  .memorial{background:linear-gradient(180deg,rgba(240,165,0,0.15),transparent);border:1px solid rgba(240,165,0,0.3);border-radius:16px;padding:22px;margin:20px auto;max-width:900px}
+  .memorial h3{color:var(--gold);font-size:1.2rem}
+  .memorial p{color:#ddd;font-size:0.95rem;margin-top:8px}
+  .lang-bar{background:#151528;position:sticky;top:0;z-index:100;padding:12px 15px;display:flex;gap:10px;align-items:center;justify-content:center;flex-wrap:wrap;border-bottom:1px solid #2a2a4a}
+  .lang-bar select{background:#1e1e35;color:white;border:1px solid var(--gold);padding:10px 14px;border-radius:25px;font-size:14px;min-width:200px}
+  .lang-bar span{font-size:13px;color:#aaa}
+  .container{max-width:900px;margin:0 auto;padding:20px}
+  .chapter{background:var(--card);border-radius:16px;padding:28px;margin:25px 0;border-left:4px solid var(--gold);box-shadow:0 8px 24px rgba(0,0,0,0.3)}
+  .chapter h2{color:var(--gold);margin-bottom:12px;font-size:1.4rem}
+  .chapter h3{color:#fff;margin:18px 0 8px}
+  .chapter p,.chapter li{color:#d0d0d0;font-size:15px}
+  .chapter ul{padding-left:20px;margin:10px 0}
+  .chapter li{margin:6px 0}
+  .warn{background:rgba(255,193,7,0.12);border-left:3px solid #ffc107;padding:12px 15px;border-radius:8px;margin:15px 0;font-size:14px;color:#ffdd88}
+  .final{background:linear-gradient(135deg,#1e3c2e,#16213e);border:2px solid var(--green);border-radius:16px;padding:30px;text-align:center;margin:30px 0}
+  /* Ecosystem V8 */
+  #ecosystem{background:linear-gradient(135deg,#12121f 0%,#1a1a2e 100%);padding:55px 20px 30px;margin-top:50px;border-top:5px solid var(--gold)}
+  .eco-inner{max-width:1150px;margin:0 auto}
+  .eco-head{text-align:center;margin-bottom:35px}
+  .eco-head h2{color:var(--gold);font-size:30px}
+  .eco-head p{color:#aaa;margin-top:8px}
+  .eco-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px}
+  .eco-card{background:rgba(255,255,255,0.06);border-radius:16px;padding:24px;border:1px solid rgba(255,255,255,0.08);transition:transform .2s}
+  .eco-card:hover{transform:translateY(-4px)}
+  .eco-card.gold{border-color:rgba(240,165,0,0.35)} .eco-card.green{border-color:rgba(37,211,102,0.35)} .eco-card.blue{border-color:rgba(77,166,255,0.35)} .eco-card.red{border-color:rgba(255,123,123,0.35)}
+  .eco-card h3{margin:12px 0 8px;font-size:18px}
+  .eco-card p{font-size:14px;color:#ccc;line-height:1.6;min-height:90px}
+  .eco-card .note{font-size:11px;color:#ffcc66;margin:10px 0;display:block}
+  .eco-btn{display:inline-block;padding:11px 18px;border-radius:25px;text-decoration:none;font-weight:700;font-size:14px;margin-top:12px}
+  .eco-footer{text-align:center;margin-top:40px;padding-top:20px;border-top:1px solid rgba(255,255,255,0.08);color:#777;font-size:12px}
+  /* Share FAB */
+  #share-fab{position:fixed;bottom:20px;right:20px;z-index:9999;display:flex;flex-direction:column;gap:10px}
+  #share-fab button{border:none;padding:14px 18px;border-radius:50px;font-weight:bold;box-shadow:0 4px 15px rgba(0,0,0,0.4);cursor:pointer;font-size:14px}
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div style="font-size:50px">🌍⛏️</div>
+  <h1 data-i18n="title">Africa Pioneers Education Hub</h1>
+  <div class="subtitle">by Chigalex1 | 24 African Languages | Free for Africa</div>
+  <div class="memorial">
+    <h3>🕊️ In Loving Memory of Christina Muzheki Manjengwa</h3>
+    <p>This Education Hub is dedicated to my beloved elder sister <b>Christina Muzheki Manjengwa</b> who rested on <b>8th August 2026 and laid to rest on the 11th August 2026 being Zimbabwe Heroes Holiday</b>.</p>
+    <p><em>Forever in our hearts. Rest in Power, Sister.</em></p>
+  </div>
+</div>
+
+<div class="lang-bar">
+  <span>🌐 Choose Language:</span>
+  <select id="langSelect" onchange="setLanguage(this.value)">
+    <option value="en">English</option>
+    <option value="sn">Shona (Zimbabwe)</option>
+    <option value="nd">Ndebele (Zimbabwe)</option>
+    <option value="zu">Zulu (South Africa)</option>
+    <option value="xh">Xhosa</option>
+    <option value="st">Sesotho</option>
+    <option value="tn">Setswana</option>
+    <option value="ve">Venda</option>
+    <option value="ts">Tsonga</option>
+    <option value="sw">Swahili (East Africa)</option>
+    <option value="yo">Yoruba (Nigeria)</option>
+    <option value="ig">Igbo (Nigeria)</option>
+    <option value="ha">Hausa (West Africa)</option>
+    <option value="am">Amharic (Ethiopia)</option>
+    <option value="om">Oromo</option>
+    <option value="so">Somali</option>
+    <option value="lg">Luganda (Uganda)</option>
+    <option value="rw">Kinyarwanda</option>
+    <option value="ln">Lingala (DRC)</option>
+    <option value="ny">Chichewa (Malawi/Zambia)</option>
+    <option value="pt">Portuguese (Mozambique/Angola)</option>
+    <option value="fr">French (Central/West Africa)</option>
+    <option value="ar">Arabic (North Africa)</option>
+    <option value="ss">Swati</option>
+  </select>
+  <span id="langNote" style="font-size:12px;color:#f0a500"></span>
+</div>
+
+<div class="container" id="content">
+
+<div class="chapter">
+<h2>INTRODUCTION — WHAT IS PI NETWORK?</h2>
+<p>Pi Network is a digital currency and global ecosystem project designed to make cryptocurrency accessible and useful for everyone.</p>
+<p>Unlike traditional cryptocurrencies that require expensive mining machines, Pi Network allows ordinary people to participate directly from their phones.</p>
+<h3>Why Pi for Africa?</h3>
+<ul>
+<li>Build an inclusive digital economy without banks</li>
+<li>Empower ordinary people worldwide with mobile mining</li>
+<li>Increase real-life usage through utilities and DApps</li>
+<li>Support person-to-person commerce and reduce fees</li>
+<li>Created by Stanford PhDs - Dr. Nicolas Kokkalis & Dr. Chengdiao Fan</li>
+<li>Over 60 Million Pioneers worldwide</li>
+</ul>
+</div>
+
+<div class="chapter">
+<h2>CHAPTER 1 — REGISTRATION & GETTING STARTED</h2>
+<p><b>Step 1:</b> Download Pi Network - Use invitation link: minepi.com/chigalex1</p>
+<p><b>Step 2:</b> Register with Facebook or Phone → Enter code: <b>CHIGALEX1</b> → Get 1 Pi reward</p>
+<p><b>Daily Mining:</b> Return every 24h and click the lightning button to continue mining.</p>
+<h3>Common Mistakes to Avoid:</h3>
+<ul>
+<li>Do not use fake name - must match ID for KYC</li>
+<li>Do not create multiple accounts - one person one account</li>
+<li>Set alarm for mining every 24 hours</li>
+<li>Join security circle after 3 days with 5 trusted people</li>
+</ul>
+<div class="warn">⚠️ Wallet security: Never share your 24 passphrase words! Pi Core Team will NEVER ask for it!</div>
+</div>
+
+<div class="chapter">
+<h2>CHAPTER 2 — PI WALLET EDUCATION</h2>
+<p>Your Pi Wallet is your bank in the Pi Ecosystem. It holds your Pi coins securely on the blockchain.</p>
+<p><b>How to create:</b> Open Pi Browser → Wallet → Generate Wallet → COPY your 24 words → Save offline in 2 safe places.</p>
+<p><b>Receiving Pi:</b> Share your public address (starts with G...). <b>Sending Pi:</b> Paste receiver address, enter amount, confirm.</p>
+<h3>Wallet Safety Rules:</h3>
+<ul>
+<li>Write passphrase on paper, not screenshot</li>
+<li>Store in 2 different safe places (not phone only)</li>
+<li>Test with 1 Pi before sending large amount</li>
+<li>Check first 4 and last 4 letters of address always</li>
+</ul>
+</div>
+
+<div class="chapter">
+<h2>CHAPTER 3 — UNDERSTANDING PI ECOSYSTEM</h2>
+<p>Pi Browser is like Google Play Store for Pi. DApps are decentralized applications for real utility — shopping, education, games, services all using Pi.</p>
+<h3>Key DApps in Africa:</h3>
+<ul>
+<li>Pi Chain Mall (PCM) - Shopping mall for Pi</li>
+<li>WorkforcePool - Jobs for Pioneers</li>
+<li>CareForPi - Healthcare support</li>
+<li>Chigalex1 Hub - Education (This App)</li>
+<li>And 100+ more utilities</li>
+</ul>
+</div>
+
+<div class="chapter">
+<h2>CHAPTER 4 — MAPOFPI & BUSINESS INTEGRATION</h2>
+<p>Discover businesses that accept Pi worldwide on mapofpi.com. Register your own business and start accepting Pi for goods and services.</p>
+<p><b>How to Register:</b> Go to mapofpi.com → Connect with Pi Wallet → Add Business → Add photos, location, products → Customers will find you! This is how Africa will lead in Pi adoption.</p>
+</div>
+
+<div class="chapter">
+<h2>CHAPTER 5 — UNDERSTANDING GCV</h2>
+<p>Global Consensus Value (GCV) encourages real utility. 1 Pi = $314,159 GCV. This value is built by pioneers using Pi in real trade, not by exchange price.</p>
+<p>GCV is not the exchange price. It is a movement to protect Pi's value by using Pi at a high consensus in our own barter. When we use Pi for real goods at GCV, we create demand and utility. This is economic empowerment for Africa.</p>
+</div>
+
+<div class="chapter">
+<h2>CHAPTER 6 — EDUCATION & RESEARCH</h2>
+<p>Study Doris Yin manual for utility creation and ecosystem growth. Research, learn, and teach others — this is how we empower Africa.</p>
+<p><b>Your Role as Africa Pioneer:</b> Learn → Practice → Teach 2 people → Those 2 teach 2 more. This is how we reach 1 Million educated Africans!</p>
+</div>
+
+<div class="final">
+<h2 style="color:#f0a500">Final Message</h2>
+<p style="margin-top:15px;font-size:16px"><b>Africa has the opportunity to be one of the strongest regions in practical utility within the Pi Ecosystem. Together We Build. Together We Educate. Together We Empower Africa Through Pi.</b></p>
+<p style="margin-top:15px;color:#aaa">Built with ❤️ by Chigalex1 | Empowering Africa 2025-2026</p>
+</div>
+
+</div>
+
+<!-- ================= V8 ECOSYSTEM & SERVICES ================= -->
+<section id="ecosystem">
+  <div class="eco-inner">
+    <div class="eco-head">
+      <h2>🚀 Chigalex1 Ecosystem & Services</h2>
+      <p>From Education to Real Utility - Built for Pioneers, by a Pioneer</p>
+    </div>
+    <div class="eco-grid">
+
+      <div class="eco-card gold">
+        <div style="font-size:34px">🎓</div>
+        <h3 style="color:#f0a500">1. Advanced Pioneer Education</h3>
+        <p>Pioneers who completed KYC and migrated Pi can access advanced training. Includes Pi Browser Ecosystem, GCV, MapOfPi, Wallet Management and exclusive <b>Chigalex1 AI Chatbot</b> to answer KYC, Wallet, GCV questions.</p>
+        <span class="note">⚠️ Accessible ONLY via Pi Browser — Small admin charge applies</span>
+        <a class="eco-btn" style="background:#f0a500;color:#000" href="https://chigalex1-backend.onrender.com/" target="_blank">Enter via Pi Browser →</a>
+      </div>
+
+      <div class="eco-card green">
+        <div style="font-size:34px">🤝🌍</div>
+        <h3 style="color:#25D366">2. Pioneer Education Partnership</h3>
+        <p>Extending to <b>5 Regional Economic Communities</b> in <b>25 African languages</b> to onboard <b>1 Million+ Businesses</b> in Africa. Join after Open Mainnet and receive Pi rewards for registrations via your username.</p>
+        <a class="eco-btn" style="background:#25D366;color:#fff" href="https://chigalex1-backend.onrender.com/landing.html" target="_blank">Become a Partner →</a>
+      </div>
+
+      <div class="eco-card blue">
+        <div style="font-size:34px">🛒📢</div>
+        <h3 style="color:#4da6ff">3. Listing of Products & Services</h3>
+        <p>List your products or services for advertising also found in Google Search for wider advertising. Shops, services, farms, transport — all welcome. Reach customers across Zimbabwe and Africa.</p>
+        <a class="eco-btn" style="background:#4da6ff;color:#fff" href="https://bizappzw.co.zw/listings.html" target="_blank">List Your Business →</a>
+      </div>
+
+      <div class="eco-card red">
+        <div style="font-size:34px">💻📱</div>
+        <h3 style="color:#ff7b7b">4. For Applications Development</h3>
+        <p>We develop business applications suitable for your business. One-man enterprise — barber, carpenter, builder, transporter — or large institution. Domains management and attractive websites included.</p>
+        <a class="eco-btn" style="background:#ff7b7b;color:#fff" href="https://bizappzw.co.zw" target="_blank">Get Your App →</a>
+      </div>
+
+    </div>
+    <div class="eco-footer">
+      <p>© 2026 Chigalex1 Pioneer Education Hub | Built with ❤️ for Africa Pioneers | Honouring Christina Muzheki Manjengwa</p>
+      <p style="margin-top:6px">Powered by Pi Network | <a href="https://bizappzw.co.zw" style="color:#888">bizappzw.co.zw</a> | <a href="https://chigalex1-backend.onrender.com/" style="color:#888">chigalex1-backend.onrender.com</a></p>
+    </div>
+  </div>
+</section>
+
+<!-- Floating Share Button V7 -->
+<div id="share-fab">
+  <button onclick="shareHub()" style="background:#25D366;color:white;">📤 Share Hub</button>
+  <button onclick="shareWhatsApp()" style="background:#128C7E;color:white;">💬 WhatsApp</button>
+</div>
+
+<script>
+const translations={
+  sn:{title:"Africa Mapiyona Dzidzo Hub",intro:"Pi Network imari yedhijitari yakagadzirirwa munhu wese."},
+  nd:{title:"Africa Pioneers Imfundo Hub"},
+  zu:{title:"Africa Pioneers Imfundo Hub"},
+  sw:{title:"Kitovu cha Elimu cha Africa Pioneers"},
+  yo:{title:"Ile-ẹkọ Africa Pioneers"},
+  ha:{title:"Cibiyar Ilimi ta Africa Pioneers"},
+  fr:{title:"Hub Éducatif des Pionniers d'Afrique"},
+  pt:{title:"Hub Educacional dos Pioneiros da África"},
+  ar:{title:"مركز تعليم رواد أفريقيا"}
+};
+function setLanguage(lang){
+  localStorage.setItem('chigalex_lang',lang);
+  document.getElementById('langNote').innerText = lang==='en' ? '' : 'Translation: '+lang.toUpperCase()+' (Full 24-language engine loads in your hosted build)';
+  if(translations[lang] && translations[lang].title){
+    document.querySelector('[data-i18n=title]').innerText = translations[lang].title;
+  } else if(lang==='en'){
+    document.querySelector('[data-i18n=title]').innerText = 'Africa Pioneers Education Hub';
+  }
+  // Scroll to top
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+(function(){
+  const saved=localStorage.getItem('chigalex_lang')||'en';
+  document.getElementById('langSelect').value=saved;
+  if(saved!=='en') setLanguage(saved);
+})();
+
+function shareHub(){
+  const url="https://chigalex1-external.onrender.com";
+  const text="🌍 Africa Pioneers Education Hub by Chigalex1 - 24 Languages! Learn Pi Wallet, GCV, MapOfPi FREE: "+url;
+  if(navigator.share){navigator.share({title:"Chigalex1 Education Hub",text:text,url:url});}
+  else{navigator.clipboard.writeText(text);alert("Link copied! "+url);}
+}
+function shareWhatsApp(){
+  const url="https://chigalex1-external.onrender.com";
+  const text=encodeURIComponent("🌍 *AFRICA PIONEERS EDUCATION HUB* by CHIGALEX1\n\n✅ 24 LANGUAGES\n✅ Wallet Safety, GCV, MapOfPi\n✅ FREE\n\n🕊️ Dedicated to Christina Muzheki Manjengwa\n\n👇 OPEN HERE:\n"+url);
+  window.open("https://wa.me/?text="+text,"_blank");
+}
+</script>
+<script>(function(){var loc=location.href.replace(/#.*$/,"");var ATTR_NAMES=["data-product-id","data-productid","data-product_id","product-id","productid","product_id","data-source-entity-id","source-entity-id","source_entity_id","data-product","data-metadata","data-meta"];var DATASET_KEYS=["productId","productid","product_id","sourceEntityId","sourceentityid","source_entity_id","product","metadata","meta"];function readProductId(value){if(typeof value!=="string"||value.length===0)return null;if(/^[0-9]{6,}$/.test(value))return value;var match=value.match(/(?:product(?:_|-)?id|source(?:_|-)?entity(?:_|-)?id)["'=:\s]+([0-9]{6,})/i);return match?match[1]:null}function extractProductId(start){for(var node=start;node&&node!==document.body;node=node.parentElement){for(var i=0;i<ATTR_NAMES.length;i++){var attrValue=node.getAttribute&&node.getAttribute(ATTR_NAMES[i]);var attrProductId=readProductId(attrValue);if(attrProductId)return attrProductId}var dataset=node.dataset||null;if(dataset){for(var j=0;j<DATASET_KEYS.length;j++){var dataValue=dataset[DATASET_KEYS[j]];var dataProductId=readProductId(dataValue);if(dataProductId)return dataProductId}}}return null}function isInlineMediaSlotElement(node){return !!(node&&node.getAttribute&&node.getAttribute("data-clippy-inline-media-slot")!==null)}function findInlineMediaSlot(start){for(var node=start;node&&node!==document.body;node=node.parentElement){if(isInlineMediaSlotElement(node))return node}return null}function readInlineMediaUrl(node){if(!node)return null;return node.getAttribute&&((node.getAttribute("data-clippy-inline-media-url")||node.getAttribute("data-url")||node.getAttribute("data_url")))||node.href||null}function stripHash(url){return String(url).replace(/#.*$/,"")}function urlsMatch(a,b){if(!a||!b)return false;try{return stripHash(new URL(a,loc).href)===stripHash(new URL(b,loc).href)}catch(_){return stripHash(a)===stripHash(b)}}function isFirstPartyReelUrl(value){try{var url=new URL(value,loc);if(url.protocol!=="https:")return false;var host=url.hostname.toLowerCase();var supported=host==="instagram.com"||host.endsWith(".instagram.com")||host==="facebook.com"||host.endsWith(".facebook.com");return supported&&/\/reels?\//i.test(url.pathname)}catch(_){return false}}function isInlineMediaUrlClick(node,href){var slot=findInlineMediaSlot(node);if(!slot)return false;var slotUrl=readInlineMediaUrl(slot);if(slotUrl)return urlsMatch(href,slotUrl);return isFirstPartyReelUrl(href)}function findDataHref(start){for(var node=start;node&&node!==document.body;node=node.parentElement){if(node.getAttribute){var href=node.getAttribute("data-href")||node.getAttribute("data-url");if(href)return{href:href,node:node}}}return null}var nativeOpen=window.open;window.open=function(url){if(parent!==window&&typeof url==="string"&&/^https?:\/\//.test(url)){parent.postMessage({type:"ecto:usercontent-link-click",href:url},"*");return null}return nativeOpen?nativeOpen.apply(window,arguments):null};document.addEventListener("click",function(e){var target=e.target instanceof Element?e.target:null;if(!target)return;if(parent===window)return;var a=target.closest?target.closest("a[href]"):null;if(a&&a.href&&/^https?:\/\//.test(a.href)&&a.href.replace(/#.*$/,"")!==loc){if(isInlineMediaUrlClick(a,a.href))return;var productId=extractProductId(target)||extractProductId(a);if(productId){e.preventDefault();parent.postMessage({type:"ecto-artifact-link-click",productId:productId},"*");return}e.preventDefault();parent.postMessage({type:"ecto:usercontent-link-click",href:a.href},"*");return}var dataHref=findDataHref(target);if(dataHref&&/^https?:\/\//.test(dataHref.href)&&dataHref.href.replace(/#.*$/,"")!==loc){if(isInlineMediaUrlClick(dataHref.node,dataHref.href))return;e.preventDefault();parent.postMessage({type:"ecto:usercontent-link-click",href:dataHref.href},"*")}},true)})();</script><script>(function(){var FOCUS_TYPE="ecto:artifact-focus-request";var CLOSE_TYPE="ecto:artifact-close-request";function focusArtifactDocument(){var body=document.body;if(!body)return;try{window.focus();}catch(e){}if(!body.hasAttribute("tabindex"))body.setAttribute("tabindex","-1");try{body.focus({preventScroll:true});}catch(e){try{body.focus();}catch(e2){}}}window.addEventListener("message",function(event){if(event.source!==window.parent)return;var data=event.data;if(!data||typeof data!=="object"||data.type!==FOCUS_TYPE)return;if(document.readyState==="loading"){document.addEventListener("DOMContentLoaded",focusArtifactDocument,{once:true});return;}focusArtifactDocument();});window.addEventListener("keydown",function(event){if(event.key!=="Escape")return;window.setTimeout(function(){if(event.defaultPrevented)return;window.parent.postMessage({type:CLOSE_TYPE},"*");},0);});})();</script></body>
+</html>
