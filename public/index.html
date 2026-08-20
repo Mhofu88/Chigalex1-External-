@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Africa Pioneers Education Hub</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<style>
+:root{ --pi-purple:#4c1d95; --pi-gold:#fbbf24; --pan-red:#CE1126; --pan-green:#009A44; --pan-yellow:#FCD116;}
+body{
+  background: linear-gradient(135deg, #4c1d95 0%, #6d28d9 25%, #000000 50%, #CE1126 75%, #009A44 100%) fixed!important;
+  background-size: 400% 400%!important;
+  animation: gradientShift 20s ease infinite;
+  font-family:'Segoe UI', sans-serif; line-height:1.9; min-height:100vh;
+}
+@keyframes gradientShift{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+.container{background:rgba(255,255,255,0.97); padding:30px; border-radius:20px; box-shadow:0 10px 40px rgba(0,0,0,0.4); margin-top:20px; margin-bottom:30px; border-top:6px solid var(--pi-gold); border-bottom:6px solid var(--pan-green)}
+.logo-header{text-align:center; padding:15px 0}
+.logo-header img{width:130px; height:130px; border-radius:50%; border:4px solid var(--pi-gold); box-shadow:0 4px 15px rgba(0,0,0,0.3); background:white; object-fit:cover}
+h2{font-weight:800; color:var(--pi-purple); border-left:6px solid var(--pan-yellow); padding-left:14px; margin-top:50px; background:linear-gradient(90deg, #fef3c7, transparent); padding-top:8px; padding-bottom:8px; border-radius:4px}
+.security-alert{background:#fee2e2!important; border:3px solid #dc2626!important; color:#991b1b!important; padding:18px!important; font-size:19px!important; font-weight:900!important; text-align:center!important; border-radius:12px!important; animation: pulse 2s infinite; margin:25px 0}
+@keyframes pulse{0%{transform:scale(1)}50%{transform:scale(1.02)}100%{transform:scale(1)}}
+.memorial{background:linear-gradient(135deg, #1f2937, #4c1d95); color:white; padding:20px; border-radius:14px; border:2px solid var(--pi-gold); text-align:center; margin:25px 0; box-shadow:0 5px 20px rgba(0,0,0,0.3)}
+.memorial h4{color:var(--pi-gold); font-weight:800}
+.chapter-card{background:#faf5ff; border:1px solid #e9d5ff; border-left:4px solid var(--pi-purple); padding:18px; border-radius:10px; margin:15px 0}
+.chapter-card ul{margin-bottom:0}
+</style>
+</head>
+<body>
+<select id="lang-switcher" style="position:fixed;top:12px;right:12px;z-index:9999;padding:8px 14px;border-radius:10px;border:2px solid #fbbf24;font-weight:800;background:white">
+<option value="en">English</option><option value="af">Afrikaans</option><option value="am">Amharic</option><option value="ar">العربية</option><option value="fr">Français</option><option value="ha">Hausa</option><option value="ig">Igbo</option><option value="kg">Kikongo</option><option value="lg">Luganda</option><option value="ln">Lingala</option><option value="rw">Kinyarwanda</option><option value="sn">Shona</option><option value="so">Somali</option><option value="st">Sesotho</option><option value="sw">Swahili</option><option value="tn">Setswana</option><option value="ts">Xitsonga</option><option value="tw">Twi</option><option value="wo">Wolof</option><option value="xh">Xhosa</option><option value="yo">Yorùbá</option><option value="zu">Zulu</option><option value="zgh">Tamazight</option><option value="nr">Ndebele</option>
+</select>
+
+<div class="container">
+<div class="logo-header">
+<img src="https://raw.githubusercontent.com/Mhofu88/Chigalex1-backend/main/public/logo.png" alt="Chigalex1 Logo">
+<h1 class="mt-3" style="font-weight:900; color:#4c1d95">🌍⛏️ <span id="app-title">Africa Pioneers Education Hub - External</span></h1>
+<h4 id="welcome-title" style="color:#CE1126; font-weight:800">WELCOME TO CHIGALEX1</h4>
+<p id="welcome-sub" class="lead">Gateway to Empowering Africa Through the Pi Ecosystem</p>
+<p><small id="africa-day" class="text-muted">(In celebrating 25th Africa Day, this Pi Pioneers Training Application is launched)</small></p>
+</div>
+
+<!-- MEMORIAL -->
+<div class="memorial" id="memorial-box">
+<h4>🕊️ In Loving Memory</h4>
+<p id="memorial-text" style="margin:0; font-size:17px; line-height:1.7">
+This Education Hub is dedicated to my beloved elder sister who rested on <b>8th August 2025</b>.<br>
+Your love, guidance and strength continue to inspire our mission to empower Africa.<br>
+<em style="color:#fbbf24">Forever in our hearts. Rest in Power, Sister.</em>
+</p>
+</div>
+
+<h5 class="text-warning mt-4" id="quick-nav">Quick Navigation</h5>
+<div class="mb-4">
+<a href="#intro" class="btn btn-outline-primary btn-sm m-1">INTRO</a>
+<a href="#ch1" class="btn btn-outline-primary btn-sm m-1">CH1 Registration</a>
+<a href="#ch2" class="btn btn-outline-primary btn-sm m-1">CH2 Wallet</a>
+<a href="#ch2a" class="btn btn-outline-primary btn-sm m-1">CH2A Practical</a>
+<a href="#ch3" class="btn btn-outline-primary btn-sm m-1">CH3 Ecosystem</a>
+<a href="#ch4" class="btn btn-outline-primary btn-sm m-1">CH4 MapOfPi</a>
+<a href="#ch5" class="btn btn-outline-primary btn-sm m-1">CH5 GCV</a>
+<a href="#ch6" class="btn btn-outline-primary btn-sm m-1">CH6 Education</a>
+</div>
+<hr>
+
+<!-- INTRO EXPANDED -->
+<h2 id="intro">INTRODUCTION — WHAT IS PI NETWORK?</h2>
+<p id="intro-p1">Pi Network is a digital currency and global ecosystem project designed to make cryptocurrency accessible and useful for everyone.</p>
+<p id="intro-p2">Unlike traditional cryptocurrencies that require expensive mining machines, Pi Network allows ordinary people to participate directly from their phones.</p>
+<div class="chapter-card">
+<p><strong id="intro-p3">Why Pi for Africa?</strong></p>
+<ul id="intro-list">
+<li>Build an inclusive digital economy without banks</li>
+<li>Empower ordinary people worldwide with mobile mining</li>
+<li>Increase real-life usage through utilities and DApps</li>
+<li>Support person-to-person commerce and reduce fees</li>
+<li>Created by Stanford PhDs - Dr. Nicolas Kokkalis & Dr. Chengdiao Fan</li>
+<li>Over 60 Million Pioneers worldwide</li>
+</ul>
+</div>
+
+<hr>
+<h2 id="ch1">CHAPTER 1 — REGISTRATION & GETTING STARTED</h2>
+<p id="ch1-p1"><b>Step 1:</b> Download Pi Network - Use invitation link: minepi.com/chigalex1</p>
+<p id="ch1-p2"><b>Step 2:</b> Register with Facebook or Phone → Enter code: CHIGALEX1 → Get 1 Pi reward</p>
+<p id="ch1-p3"><b>Daily Mining:</b> Return every 24h and click the lightning button to continue mining. This proves you are human and active.</p>
+<div class="chapter-card">
+<p><strong id="ch1-p4">Common Mistakes to Avoid:</strong></p>
+<ul id="ch1-list2">
+<li>Do not use fake name - must match ID for KYC</li>
+<li>Do not create multiple accounts - one person one account</li>
+<li>Set alarm for mining every 24 hours to keep rate</li>
+<li>Join security circle after 3 days with 5 trusted people</li>
+</ul>
+</div>
+<h5 id="ch1-check">Mainnet Checklist</h5>
+<ul id="ch1-list"><li>Create Pi wallet securely</li><li>Complete 2FA</li><li>Complete KYC</li><li>Prepare for Mainnet migration</li></ul>
+<div class="security-alert" id="security-msg">⚠️ Wallet security: Never share your 24 passphrase words! Pi Core Team will NEVER ask for it!</div>
+
+<hr>
+<h2 id="ch2">CHAPTER 2 — PI WALLET EDUCATION</h2>
+<p id="ch2-p1">Your Pi Wallet is your bank in the Pi Ecosystem. It holds your Pi coins securely on the blockchain.</p>
+<p id="ch2-p2"><b>How to create:</b> Open Pi Browser → Wallet → Generate Wallet → COPY your 24 words → Save offline in 2 safe places.</p>
+<p id="ch2-p3"><b>Receiving Pi:</b> Share your public address (starts with G...). <b>Sending Pi:</b> Paste receiver address, enter amount, confirm.</p>
+<div class="chapter-card">
+<p><strong id="ch2-p4">Wallet Safety Rules:</strong></p>
+<ul id="ch2-list">
+<li>Write passphrase on paper, not screenshot</li>
+<li>Store in 2 different safe places (not phone only)</li>
+<li>Test with 1 Pi before sending large amount</li>
+<li>Check first 4 and last 4 letters of address always</li>
+</ul>
+</div>
+
+<hr>
+<h2 id="ch2a">CHAPTER 2A — PRACTICAL PI WALLET TRAINING</h2>
+<p id="ch2a-p1">Practical: Start with small test amount (1 Pi). Verify address first 4 and last 4 letters match. Never copy-paste passphrase on any website!</p>
+<div class="chapter-card">
+<p id="ch2a-p2"><b>Live Exercise:</b> In this training, we will do a live demo of sending 1 Pi to another pioneer to build confidence. Remember: Blockchain transactions are irreversible!</p>
+</div>
+
+<hr>
+<h2 id="ch3">CHAPTER 3 — UNDERSTANDING PI ECOSYSTEM</h2>
+<p id="ch3-p1">Pi Browser is like Google Play Store for Pi. DApps are decentralized applications for real utility — shopping, education, games, services all using Pi.</p>
+<div class="chapter-card">
+<p><strong id="ch3-p2">Key DApps in Africa:</strong></p>
+<ul id="ch3-list">
+<li>Pi Chain Mall (PCM) - Shopping mall for Pi</li>
+<li>WorkforcePool - Jobs for Pioneers</li>
+<li>CareForPi - Healthcare support</li>
+<li>Chigalex1 Hub - Education (This App)</li>
+<li>And 100+ more utilities</li>
+</ul>
+</div>
+
+<hr>
+<h2 id="ch4">CHAPTER 4 — MAPOFPI & BUSINESS INTEGRATION</h2>
+<p id="ch4-p1">Discover businesses that accept Pi worldwide on mapofpi.com. Register your own business and start accepting Pi for goods and services.</p>
+<div class="chapter-card">
+<p id="ch4-p2"><b>How to Register Your Business:</b> Go to mapofpi.com → Connect with Pi Wallet → Add Business → Add photos, location, products → Customers will find you! This is how Africa will lead in Pi adoption.</p>
+</div>
+
+<hr>
+<h2 id="ch5">CHAPTER 5 — UNDERSTANDING GCV</h2>
+<p id="ch5-p1">Global Consensus Value (GCV) encourages real utility. 1 Pi = $314,159 GCV. This value is built by pioneers using Pi in real trade, not by exchange price.</p>
+<div class="chapter-card">
+<p id="ch5-p2"><b>GCV Meaning:</b> GCV is not the exchange price. It is a movement to protect Pi's value by using Pi at a high consensus in our own barter. When we use Pi for real goods at GCV, we create demand and utility. This is economic empowerment for Africa.</p>
+</div>
+
+<hr>
+<h2 id="ch6">CHAPTER 6 — EDUCATION & RESEARCH</h2>
+<p id="ch6-p1">Study Doris Yin manual for utility creation and ecosystem growth. Research, learn, and teach others — this is how we empower Africa.</p>
+<div class="chapter-card">
+<p id="ch6-p2"><b>Your Role as Africa Pioneer:</b> Learn → Practice → Teach 2 people → Those 2 teach 2 more. This is how we reach 1 Million educated Africans! Download Whitepaper, read, and share knowledge daily.</p>
+</div>
+
+<hr>
+<h3 id="final-title">Final Message</h3>
+<p id="final-msg"><b>Africa has the opportunity to be one of the strongest regions in practical utility within the Pi Ecosystem. Together We Build. Together We Educate. Together We Empower Africa Through Pi.</b></p>
+<p class="text-center mt-4"><small>Built with ❤️ by Chigalex1 | Empowering Africa 2025</small></p>
+</div>
+
+<script>
+async function loadLang(lang){
+  try{
+    const res = await fetch(`/locales/${lang}/translation.json?v=6`);
+    const t = await res.json();
+    for(const key in t){
+      const el = document.getElementById(key);
+      if(el) el.innerHTML = t[key];
+    }
+  }catch(e){ console.log('Lang error', e) }
+}
+document.getElementById('lang-switcher').addEventListener('change', e=>loadLang(e.target.value));
+loadLang('en');
+</script>
+</body>
+</html>
