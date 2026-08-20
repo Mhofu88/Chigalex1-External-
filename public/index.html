@@ -1,0 +1,135 @@
+<!DOCTYPE html><html lang="en"><head><style>
+@font-face {
+  font-family: "Optimistic";
+  font-style: normal;
+  font-weight: 400 600;
+  font-display: swap;
+  src: url("/fonts/OptimisticAI_VF_Optimized.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Optimistic Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/OptimisticMono_W_TextRegular.woff2") format("woff2");
+}
+:where(html) {
+  font-family: "Optimistic", system-ui, sans-serif;
+}
+:where(code, pre, kbd, samp) {
+  font-family: "Optimistic Mono", ui-monospace, monospace;
+}
+</style><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Chigalex1 - 24 Languages V8.6</title>
+<style>:root{--gold:#f0a500}*{margin:0;padding:0;box-sizing:border-box}body{font-family:sans-serif;background:#0a0a14;color:#e8e8e8;line-height:1.6;padding-top:75px}
+.top-lang{position:fixed;top:0;left:0;right:0;z-index:99999;background:#0f0f1f;border-bottom:3px solid var(--gold);padding:10px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.top-lang select{background:#fff;color:#000;border:2px solid var(--gold);padding:10px;border-radius:25px;font-weight:700;min-width:200px}
+.top-lang button{background:var(--gold);color:#000;border:none;padding:10px 14px;border-radius:20px;font-weight:800;cursor:pointer}
+.hero{background:linear-gradient(135deg,#1a1a2e,#0f3460);padding:25px 15px;text-align:center;border-bottom:4px solid var(--gold)}
+.hero h1{color:var(--gold);font-size:1.8rem}.container{max-width:900px;margin:0 auto;padding:12px}.chapter{background:#1c1c2e;border-radius:12px;padding:18px;margin:14px 0;border-left:4px solid var(--gold)}.memorial{border:1px solid rgba(240,165,0,.4);border-radius:12px;padding:15px;margin:12px auto;background:rgba(240,165,0,.08);max-width:900px}
+.lang-block{display:none}.mem-block{display:none}
+body.lang-en .lang-en,body.lang-sn .lang-sn,body.lang-nd .lang-nd,body.lang-zu .lang-zu,body.lang-xh .lang-xh,body.lang-ss .lang-ss,body.lang-st .lang-st,body.lang-tn .lang-tn,body.lang-ve .lang-ve,body.lang-ts .lang-ts,body.lang-sw .lang-sw,body.lang-yo .lang-yo,body.lang-ig .lang-ig,body.lang-ha .lang-ha,body.lang-am .lang-am,body.lang-om .lang-om,body.lang-so .lang-so,body.lang-lg .lang-lg,body.lang-rw .lang-rw,body.lang-ln .lang-ln,body.lang-ny .lang-ny,body.lang-pt .lang-pt,body.lang-fr .lang-fr,body.lang-ar .lang-ar{display:block}
+body.lang-en .mem-en,body.lang-sn .mem-sn,body.lang-nd .mem-nd,body.lang-zu .mem-zu,body.lang-xh .mem-xh,body.lang-ss .mem-ss,body.lang-st .mem-st,body.lang-tn .mem-tn,body.lang-ve .mem-ve,body.lang-ts .mem-ts,body.lang-sw .mem-sw,body.lang-yo .mem-yo,body.lang-ig .mem-ig,body.lang-ha .mem-ha,body.lang-am .mem-am,body.lang-om .mem-om,body.lang-so .mem-so,body.lang-lg .mem-lg,body.lang-rw .mem-rw,body.lang-ln .mem-ln,body.lang-ny .mem-ny,body.lang-pt .mem-pt,body.lang-fr .mem-fr,body.lang-ar .mem-ar{display:block}
+#ecosystem{background:#12121f;padding:30px 12px;margin-top:30px;border-top:5px solid var(--gold)}.eco-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px}.eco-card{background:rgba(255,255,255,.06);border-radius:12px;padding:14px}.eco-btn{display:inline-block;padding:7px 11px;border-radius:18px;text-decoration:none;font-weight:700;font-size:12px;margin-top:6px}
+</style></head><body class="lang-en">
+<div class="top-lang"><span>🌐</span><select id="langSelect">
+<option value="en">English</option>
+<option value="sn">Shona (Zimbabwe)</option>
+<option value="nd">Ndebele (Zimbabwe)</option>
+<option value="zu">Zulu (South Africa)</option>
+<option value="xh">Xhosa</option>
+<option value="ss">Swati</option>
+<option value="st">Sesotho</option>
+<option value="tn">Setswana</option>
+<option value="ve">Venda</option>
+<option value="ts">Tsonga</option>
+<option value="sw">Swahili (East Africa)</option>
+<option value="yo">Yoruba</option>
+<option value="ig">Igbo</option>
+<option value="ha">Hausa</option>
+<option value="am">Amharic</option>
+<option value="om">Oromo</option>
+<option value="so">Somali</option>
+<option value="lg">Luganda</option>
+<option value="rw">Kinyarwanda</option>
+<option value="ln">Lingala</option>
+<option value="ny">Chichewa</option>
+<option value="pt">Portuguese</option>
+<option value="fr">French</option>
+<option value="ar">Arabic</option>
+</select><button onclick="applyLang()">Translate ▶</button><span id="status" style="font-size:11px;color:#f0a500;font-weight:bold">EN ✓</span></div>
+<div class="hero"><div style="font-size:36px">🌍⛏️</div>
+<div class="lang-block lang-en"><h1>Africa Pioneers Education Hub</h1></div>
+<div class="lang-block lang-sn"><h1>Africa Mapiyona Dzidzo Hub</h1></div>
+<div class="lang-block lang-nd"><h1>Africa Mapioneers Imfundo Hub</h1></div>
+<div class="lang-block lang-zu"><h1>Isizinda Semfundo YamaPioneer</h1></div>
+<div class="lang-block lang-xh"><h1>Iziko Lemfundo LamaPioneer</h1></div>
+<div class="lang-block lang-sw"><h1>Kituo cha Elimu cha Waanzilishi</h1></div>
+<div class="lang-block lang-fr"><h1>Hub Éducatif des Pionniers</h1></div>
+<div class="lang-block lang-pt"><h1>Hub Educacional dos Pioneiros</h1></div>
+<div class="lang-block lang-ar"><h1>مركز رواد أفريقيا</h1></div>
+<div class="lang-block lang-yo"><h1>Ile-Iwe Awon Pioneer</h1></div>
+<div class="lang-block lang-ig"><h1>Ụlọ Akwụkwọ Ndị Pioneer</h1></div>
+<div class="lang-block lang-ha"><h1>Cibiyar Ilimi ta Majagaba</h1></div>
+<div class="lang-block lang-am"><h1>የአፍሪካ ፓዮ니어ስ ማዕከል</h1></div>
+<div class="lang-block lang-om"><h1>Buufata Barnoota Pioneers</h1></div>
+<div class="lang-block lang-so"><h1>Xarunta Pioneers Afrika</h1></div>
+<div class="lang-block lang-lg"><h1>Ekifo ky'Abapayonia</h1></div>
+<div class="lang-block lang-rw"><h1>Ikigo cy'Abapayiniya</h1></div>
+<div class="lang-block lang-ln"><h1>Esika ya Ba Pioneer</h1></div>
+<div class="lang-block lang-ny"><h1>Malo Ophunzirira a Pioneer</h1></div>
+<div class="lang-block lang-ss"><h1>Sikhungo SamaPioneer</h1></div>
+<div class="lang-block lang-st"><h1>Setsi sa Bo-Pioneer</h1></div>
+<div class="lang-block lang-tn"><h1>Lefelo la Bo-Pioneer</h1></div>
+<div class="lang-block lang-ve"><h1>Fhethu ha Vha-Pioneer</h1></div>
+<div class="lang-block lang-ts"><h1>Xikolo xa Vapioneer</h1></div>
+<div style="color:#ccc;font-size:13px">by Chigalex1 | 24 Languages | Free for Africa</div>
+<div class="memorial">
+<div class="mem-block mem-en"><h3 style="color:#f0a500">🕊️ In Memory: Christina Muzheki Manjengwa</h3><p>Dedicated to my sister <b>Christina</b> rested 8 Aug 2026, Heroes Holiday 11 Aug.</p></div>
+<div class="mem-block mem-sn"><h3 style="color:#f0a500">🕊️ Mukurangarira: Christina</h3><p>Hub ino yakatsaurirwa hanzvadzi yangu <b>Christina</b> 8 Nyamavhuvhu 2026.</p></div>
+<div class="mem-block mem-nd"><h3 style="color:#f0a500">🕊️ Ukukhumbula: Christina</h3><p>Inikezelwe kudadewethu <b>Christina</b> 8 Aug.</p></div>
+<div class="mem-block mem-zu"><h3 style="color:#f0a500">🕊️ Ukukhumbula: Christina</h3><p>Inikezelwe kudadewethu <b>Christina</b>.</p></div>
+<div class="mem-block mem-xh"><h3 style="color:#f0a500">🕊️ Ukukhumbula: Christina</h3><p>Linikezelwe kudade <b>Christina</b>.</p></div>
+<div class="mem-block mem-sw"><h3 style="color:#f0a500">🕊️ Kumbukumbu: Christina</h3><p>Kimewekwa kwa dada <b>Christina</b> 8 Agosti.</p></div>
+<div class="mem-block mem-fr"><h3 style="color:#f0a500">🕊️ Mémoire: Christina</h3><p>Dédié à ma sœur <b>Christina</b> 8 Août.</p></div>
+<div class="mem-block mem-pt"><h3 style="color:#f0a500">🕊️ Memória: Christina</h3><p>Dedicado à irmã <b>Christina</b> 8 Agosto.</p></div>
+<div class="mem-block mem-ar"><h3 style="color:#f0a500">🕊️ ذكرى: Christina</h3><p>مخصص لأختي <b>Christina</b> 8 أغسطس.</p></div>
+<div class="mem-block mem-yo"><h3 style="color:#f0a500">🕊️ Iranti: Christina</h3><p>Fun arabinrin <b>Christina</b>.</p></div>
+<div class="mem-block mem-ig"><h3 style="color:#f0a500">🕊️ Ncheta: Christina</h3><p>Nye nwanne <b>Christina</b>.</p></div>
+<div class="mem-block mem-ha"><h3 style="color:#f0a500">🕊️ Tunawa: Christina</h3><p>Ga <b>Christina</b> 8 Aug.</p></div>
+<div class="mem-block mem-am"><h3 style="color:#f0a500">🕊️ መታሰቢያ: Christina</h3><p>ለእህቴ <b>Christina</b>.</p></div>
+<div class="mem-block mem-om"><h3 style="color:#f0a500">🕊️ Yaadannoo: Christina</h3><p>Obboleetti <b>Christina</b>.</p></div>
+<div class="mem-block mem-so"><h3 style="color:#f0a500">🕊️ Xasuusta: Christina</h3><p>Walaashay <b>Christina</b>.</p></div>
+<div class="mem-block mem-lg"><h3 style="color:#f0a500">🕊️ Kwasa: Christina</h3><p>Eri mwannyinaze <b>Christina</b>.</p></div>
+<div class="mem-block mem-rw"><h3 style="color:#f0a500">🕊️ Kwibuka: Christina</h3><p>Mushiki wanjye <b>Christina</b>.</p></div>
+<div class="mem-block mem-ln"><h3 style="color:#f0a500">🕊️ Likanisi: Christina</h3><p>Mpo na ndeko <b>Christina</b>.</p></div>
+<div class="mem-block mem-ny"><h3 style="color:#f0a500">🕊️ Pokumbukira: Christina</h3><p>Kwa mlongo wanga <b>Christina</b>.</p></div>
+<div class="mem-block mem-ss"><h3 style="color:#f0a500">🕊️ Ngekukhumbula: Christina</h3><p>Kudzadzewethu <b>Christina</b>.</p></div>
+<div class="mem-block mem-st"><h3 style="color:#f0a500">🕊️ Ho Hopola: Christina</h3><p>Ho khaitseli <b>Christina</b>.</p></div>
+<div class="mem-block mem-tn"><h3 style="color:#f0a500">🕊️ Go Gopola: Christina</h3><p>Kgaitsadi <b>Christina</b>.</p></div>
+<div class="mem-block mem-ve"><h3 style="color:#f0a500">🕊️ U Humela: Christina</h3><p>Khaladzi <b>Christina</b>.</p></div>
+<div class="mem-block mem-ts"><h3 style="color:#f0a500">🕊️ Ku Khumbula: Christina</h3><p>Eka makwavo <b>Christina</b>.</p></div>
+</div></div>
+<div class="container">
+<div class="lang-block lang-en"><div class="chapter"><h2>INTRODUCTION</h2><p>Pi Network is digital currency for everyone. Mine on phone.</p></div><div class="chapter"><h2>CHAPTER 1 - REGISTRATION</h2><p>Code: CHIGALEX1 - Mine every 24h</p></div><div class="chapter"><h2>WALLET SAFETY</h2><p>Save 24 words offline. Never share!</p></div></div>
+<div class="lang-block lang-sn"><div class="chapter"><h2>NHANGANYAYA</h2><p>Pi Network imari yedhijitari yevanhu vese.</p></div><div class="chapter"><h2>CHITSAUKO 1</h2><p>Kodhi: CHIGALEX1 - Chera maawa 24</p></div></div>
+<div class="lang-block lang-nd"><div class="chapter"><h2>ISINGENISO</h2><p>I Pi Network yimali yedijithali.</p></div></div>
+<div class="lang-block lang-zu"><div class="chapter"><h2>ISINGENISO</h2><p>I Pi Network imali yedijithali.</p></div></div>
+<div class="lang-block lang-sw"><div class="chapter"><h2>UTANGULIZI</h2><p>Pi Network ni sarafu ya kidijitali.</p></div></div>
+<div class="lang-block lang-fr"><div class="chapter"><h2>INTRODUCTION</h2><p>Pi Network est monnaie numérique.</p></div></div>
+<div class="lang-block lang-pt"><div class="chapter"><h2>INTRODUÇÃO</h2><p>Pi Network é moeda digital.</p></div></div>
+<div class="lang-block lang-ar"><div class="chapter"><h2>مقدمة</h2><p>Pi Network عملة رقمية.</p></div></div>
+<div class="lang-block lang-xh lang-ss lang-st lang-tn lang-ve lang-ts lang-yo lang-ig lang-ha lang-am lang-om lang-so lang-lg lang-rw lang-ln lang-ny"><div class="chapter"><h2>INTRODUCTION</h2><p>Pi Network is digital currency for everyone. Full translation coming in V8.7.</p></div></div>
+<div style="background:linear-gradient(135deg,#1e3c2e,#16213e);border:2px solid #25D366;border-radius:12px;padding:16px;text-align:center;margin:18px 0"><h2 style="color:#f0a500">Together We Build Africa! 🌍</h2><p style="color:#aaa;font-size:11px;margin-top:6px">V8.6 24 Languages | Built by Chigalex1 | Honouring Christina Muzheki Manjengwa</p></div>
+</div>
+<section id="ecosystem"><div style="max-width:1100px;margin:0 auto"><h2 style="text-align:center;color:#f0a500">🚀 Ecosystem & Services</h2><div class="eco-grid" style="margin-top:12px">
+<div class="eco-card"><h3 style="color:#f0a500">1. Advanced Education</h3><a class="eco-btn" style="background:#f0a500;color:#000" href="https://chigalex1-backend.onrender.com/" target="_blank">Enter →</a></div>
+<div class="eco-card"><h3 style="color:#25D366">2. Partnership 1M</h3><a class="eco-btn" style="background:#25D366;color:#fff" href="https://chigalex1-backend.onrender.com/landing.html" target="_blank">Partner →</a></div>
+<div class="eco-card"><h3 style="color:#4da6ff">3. List Products</h3><a class="eco-btn" style="background:#4da6ff;color:#fff" href="https://bizappzw.co.zw/listings.html" target="_blank">List →</a></div>
+<div class="eco-card"><h3 style="color:#ff7b7b">4. App Development</h3><a class="eco-btn" style="background:#ff7b7b;color:#fff" href="https://bizappzw.co.zw" target="_blank">Get App →</a></div>
+</div></div></section>
+<script>
+function applyLang(){var s=document.getElementById('langSelect');var c=s?s.value:'en';document.body.className='lang-'+c;var st=document.getElementById('status');if(st)st.textContent=c.toUpperCase()+' ✓ Active';try{localStorage.setItem('chigalex_lang',c);}catch(e){}}
+document.getElementById('langSelect').addEventListener('change',applyLang);
+window.addEventListener('load',function(){var saved='en';try{saved=localStorage.getItem('chigalex_lang')||'en';}catch(e){}var sel=document.getElementById('langSelect');if(sel)sel.value=saved;applyLang();});
+</script><script>(function(){var loc=location.href.replace(/#.*$/,"");var ATTR_NAMES=["data-product-id","data-productid","data-product_id","product-id","productid","product_id","data-source-entity-id","source-entity-id","source_entity_id","data-product","data-metadata","data-meta"];var DATASET_KEYS=["productId","productid","product_id","sourceEntityId","sourceentityid","source_entity_id","product","metadata","meta"];function readProductId(value){if(typeof value!=="string"||value.length===0)return null;if(/^[0-9]{6,}$/.test(value))return value;var match=value.match(/(?:product(?:_|-)?id|source(?:_|-)?entity(?:_|-)?id)["'=:\s]+([0-9]{6,})/i);return match?match[1]:null}function extractProductId(start){for(var node=start;node&&node!==document.body;node=node.parentElement){for(var i=0;i<ATTR_NAMES.length;i++){var attrValue=node.getAttribute&&node.getAttribute(ATTR_NAMES[i]);var attrProductId=readProductId(attrValue);if(attrProductId)return attrProductId}var dataset=node.dataset||null;if(dataset){for(var j=0;j<DATASET_KEYS.length;j++){var dataValue=dataset[DATASET_KEYS[j]];var dataProductId=readProductId(dataValue);if(dataProductId)return dataProductId}}}return null}function isInlineMediaSlotElement(node){return !!(node&&node.getAttribute&&node.getAttribute("data-clippy-inline-media-slot")!==null)}function findInlineMediaSlot(start){for(var node=start;node&&node!==document.body;node=node.parentElement){if(isInlineMediaSlotElement(node))return node}return null}function readInlineMediaUrl(node){if(!node)return null;return node.getAttribute&&((node.getAttribute("data-clippy-inline-media-url")||node.getAttribute("data-url")||node.getAttribute("data_url")))||node.href||null}function stripHash(url){return String(url).replace(/#.*$/,"")}function urlsMatch(a,b){if(!a||!b)return false;try{return stripHash(new URL(a,loc).href)===stripHash(new URL(b,loc).href)}catch(_){return stripHash(a)===stripHash(b)}}function isFirstPartyReelUrl(value){try{var url=new URL(value,loc);if(url.protocol!=="https:")return false;var host=url.hostname.toLowerCase();var supported=host==="instagram.com"||host.endsWith(".instagram.com")||host==="facebook.com"||host.endsWith(".facebook.com");return supported&&/\/reels?\//i.test(url.pathname)}catch(_){return false}}function isInlineMediaUrlClick(node,href){var slot=findInlineMediaSlot(node);if(!slot)return false;var slotUrl=readInlineMediaUrl(slot);if(slotUrl)return urlsMatch(href,slotUrl);return isFirstPartyReelUrl(href)}function findDataHref(start){for(var node=start;node&&node!==document.body;node=node.parentElement){if(node.getAttribute){var href=node.getAttribute("data-href")||node.getAttribute("data-url");if(href)return{href:href,node:node}}}return null}var nativeOpen=window.open;window.open=function(url){if(parent!==window&&typeof url==="string"&&/^https?:\/\//.test(url)){parent.postMessage({type:"ecto:usercontent-link-click",href:url},"*");return null}return nativeOpen?nativeOpen.apply(window,arguments):null};document.addEventListener("click",function(e){var target=e.target instanceof Element?e.target:null;if(!target)return;if(parent===window)return;var a=target.closest?target.closest("a[href]"):null;if(a&&a.href&&/^https?:\/\//.test(a.href)&&a.href.replace(/#.*$/,"")!==loc){if(isInlineMediaUrlClick(a,a.href))return;var productId=extractProductId(target)||extractProductId(a);if(productId){e.preventDefault();parent.postMessage({type:"ecto-artifact-link-click",productId:productId},"*");return}e.preventDefault();parent.postMessage({type:"ecto:usercontent-link-click",href:a.href},"*");return}var dataHref=findDataHref(target);if(dataHref&&/^https?:\/\//.test(dataHref.href)&&dataHref.href.replace(/#.*$/,"")!==loc){if(isInlineMediaUrlClick(dataHref.node,dataHref.href))return;e.preventDefault();parent.postMessage({type:"ecto:usercontent-link-click",href:dataHref.href},"*")}},true)})();</script><script>(function(){var FOCUS_TYPE="ecto:artifact-focus-request";var CLOSE_TYPE="ecto:artifact-close-request";function focusArtifactDocument(){var body=document.body;if(!body)return;try{window.focus();}catch(e){}if(!body.hasAttribute("tabindex"))body.setAttribute("tabindex","-1");try{body.focus({preventScroll:true});}catch(e){try{body.focus();}catch(e2){}}}window.addEventListener("message",function(event){if(event.source!==window.parent)return;var data=event.data;if(!data||typeof data!=="object"||data.type!==FOCUS_TYPE)return;if(document.readyState==="loading"){document.addEventListener("DOMContentLoaded",focusArtifactDocument,{once:true});return;}focusArtifactDocument();});window.addEventListener("keydown",function(event){if(event.key!=="Escape")return;window.setTimeout(function(){if(event.defaultPrevented)return;window.parent.postMessage({type:CLOSE_TYPE},"*");},0);});})();</script></body></html>
