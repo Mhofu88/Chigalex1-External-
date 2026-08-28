@@ -1,50 +1,37 @@
 {
-  "APP_TITLE": "Ụlọ Mmụta Ndị Ọsụ Ụzọ Afrịka - Nke Dị N'èzí",
-  "WELCOME_TITLE": "NNOỌ NA CHIGALEX1",
-  "WELCOME_SUB": "Ụzọ Mbata Maka Inye Afrịka Ike Site Na Gburugburu Pi",
-  "AFRICA_DAY": "(N'emume Ụbọchị Afrịka nke Iri Abụọ na Ise, ewepụtara Ngwa Ọzụzụ Ndị Ọsụ Ụzọ Pi a)",
-  "QUICK_NAV": "Ntugharị Ngwa Ngwa",
-  "INTRO_TITLE": "MMALITE — GỊNỊ BỤ PI NETWORK?",
-  "INTRO_P1": "Pi Network bụ ọrụ ego dijitalụ nke ụwa niile na gburugburu ebe obibi e mere iji mee ka ego dijitalụ dị mfe ịnweta ma baa uru nye onye ọ bụla.",
-  "INTRO_P2": "N'adịghị ka ego dijitalụ ochie nke chọrọ igwe dị oke ọnụ na ọkụ eletrik dị ukwuu, Pi Network na-enye ndị nkịtị ohere isonye ozugbo site na ekwentị ha.",
-  "INTRO_P3": "Ọhụụ nke Pi Network bụ iwu gburugburu ebe obibi nke ndị mmadụ na-achịkwa ebe enwere ike iji ego dijitalụ rụọ ezigbo ọrụ, ezigbo ozi, ezigbo obodo na ezigbo azụmaahịa.",
-  "GLOBAL_MISSION": "Ebumnobi Ukwu Pi Network n'Uwa Niile",
-  "M1": "Iwu akụ na ụba dijitalụ nke mmadụ niile ga-aba",
-  "M2": "Inye ndị nkịtị ike n'ụwa niile",
-  "M3": "Ịbawanye ojiji ya n'ụwa n'ezie",
-  "M4": "Ịkwado ịzụ ahịa mmadụ na ibe ya",
-  "M5": "Iwu gburugburu ebe obibi nke enweghị otu onye nwe ya",
-  "M6": "Ịgba ume ka obodo sonye na ya",
-  "CH1_TITLE": "ISI NKE 1 — NDEBANYE AHA NA IBIDO",
-  "CH1_SUB": "Nnọọ na Ụlọ Mmụta Ndị Ọsụ Ụzọ Afrịka - Nke Dị N'èzí. E kere ebe a iji kuziere, nye ike na ịkwado ndị ọsụ ụzọ na ndị ọchụnta ego Afrịka ka ha sonye nke ọma na Gburugburu Pi.",
-  "STEP1": "Nzọụkwụ 1 — Budata Pi Network",
-  "INVITE_LINK": "Jiri njikọ ọkpụkpọ oku nke gọọmentị: https://minepi.com/chigalex1",
-  "STEP2": "Nzọụkwụ 2 — Debanye Aha",
-  "REG1": "Mepee Ngwa Pi Network",
-  "REG2": "Debanye aha site na Facebook ma ọ bụ Nọmba Ekwentị",
-  "REG3": "Tinye koodu ịkpọ oku: CHIGALEX1",
-  "REG4": "Nweta ụgwọ ọrụ 1 Pi gị",
-  "DAILY_MINING": "Igwu Pi Kwa Ụbọchị: Na-alọta kwa awa 24 iji gaa n'ihu igwu Pi.",
-  "MAINNET_TITLE": "Ndepụta Ihe Ime Maka Mainnet",
-  "MC1": "Mepụta Pi Wallet nke ọma",
-  "MC2": "Mechaa nkwenye 2FA",
-  "MC3": "Mechaa KYC",
-  "MC4": "Kwado maka ịkwaga Mainnet",
-  "WALLET_SEC": "Nchekwa Wallet: Enyela onye ọ bụla mkpụrụ okwu 24 nke nzuzo gị. Onye ọ bụla nwere mkpụrụ okwu ahụ bụ onye nwe wallet ahụ.",
-  "CH2_TITLE": "ISI NKE 2 — MMỤTA BANYERE PI WALLET",
-  "CH2_DESC": "Mụta otu esi enweta na izipu Pi n'enweghị nsogbu site na iji Pi Wallet dị na Pi Browser.",
-  "CH2A_TITLE": "ISI NKE 2A — ỌZỤ PI WALLET NKE EJI AKA EME",
-  "CH2A_DESC": "Jiri obere ego nwalee na mbụ, lelee adreesị nke ọma, enyela onye ọ bụla mkpụrụ okwu nzuzo gị.",
-  "CH3_TITLE": "ISI NKE 3 — ỊGHỌTA GBURUGbURU PI",
-  "CH3_DESC": "DApps dị na Pi Browser bụ ngwa na-enweghị otu onye nwe ya maka ezigbo ojiji.",
-  "CH4_TITLE": "ISI NKE 4 — MAPOFPI NA IJIKỌ AZỤMAAHỊA",
-  "CH4_DESC": "Chọpụta azụmaahịa na-anabata Pi n'ụwa niile.",
-  "CH5_TITLE": "ISI NKE 5 — ỊGHỌTA GCV",
-  "CH5_DESC": "Ọnụ Ahịa Nkwekọrịta Ụwa (GCV) na-akwalite ezigbo ojiji nke gburugburu ebe obibi.",
-  "CH6_TITLE": "ISI NKE 6 — MMỤTA NA NYOCHA",
-  "CH6_DESC": "Mụọ Akwụkwọ Ntuziaka Doris Yin maka imepụta ojiji na itolite gburugburu ebe obibi.",
-  "MERCHANT_TITLE": "Mmụta Ijikọ Ndị Ahịa",
-  "MERCHANT_DESC": "Otu esi esonyere gburugburu ebe obibi, depụta azụmaahịa gị na MapOfPi, na ịnabata ịkwụ ụgwọ Pi.",
-  "FINAL_MSG": "Okwu Ikpeazụ",
-  "FINAL_P": "Afrịka nwere ohere ịbụ otu n'ime mpaghara kachasị ike n'iji Pi eme ezigbo ọrụ n'ime Gburugburu Pi. Ọnụ Ka Anyị Na-ewu. Ọnụ Ka Anyị Na-akụzi Ihe. Ọnụ Ka Anyị Na-enye Afrịka Ike Site na Pi."
+  "code": "ig",
+  "label": "Igbo ★ FULL",
+  "chapters": [
+    {
+      "title": "CHAPTER 1 - REGISTRATION - Igbo",
+      "summary": "Stanford PhDs 2019, 60M Pioneers, minepi.com/chigalex1, code CHIGALEX1, real name as ID, lightning every 24h"
+    },
+    {
+      "title": "CHAPTER 2 - SECURITY CIRCLE - Igbo",
+      "summary": "After 3 days, 3-5 trusted people 20% each =100% boost, referral 25% bonus"
+    },
+    {
+      "title": "CHAPTER 3 - PI WALLET & 24 WORDS - Igbo",
+      "summary": "24 WORDS = BANK MASTER KEY! Write on PAPER twice, NEVER screenshot, Test Pi faucet 100"
+    },
+    {
+      "title": "CHAPTER 4 - KYC & MAINNET - Igbo",
+      "summary": "KYC FREE, docs ZW green ID, bright room, 8 steps checklist"
+    },
+    {
+      "title": "CHAPTER 5 - GCV 314159 - Igbo",
+      "summary": "GCV not exchange price, Doris Yin, MapOfPi chicken 0.00001 Pi"
+    },
+    {
+      "title": "CHAPTER 6 - EDUCATION & MISSION - Igbo",
+      "summary": "Learn Practice Teach 2 to 1M Pioneers, 2030 farmer sells maize for Pi"
+    },
+    {
+      "title": "CHAPTER 7 - SECURITY & SCAM - Igbo",
+      "summary": "5 Golden Rules: never share 24 words QR, only official apps"
+    }
+  ],
+  "invite_code": "CHIGALEX1",
+  "backend": "https://chigalex1-backend.onrender.com",
+  "gcv": "$314,159"
 }
