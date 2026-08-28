@@ -1,47 +1,37 @@
 {
-  "app-title": "Ile-ẹkọ Africa Pioneers - Ita",
-  "welcome-title": "KAABO SI CHIGALEX1",
-  "welcome-sub": "Ẹnubode lati Mu Africa Lagbara Nipasẹ Pi Ecosystem",
-  "africa-day": "(Ni ayẹyẹ Ọjọ Africa 25th, ohun elo Ikẹkọ Pi Pioneers yii ti ṣe ifilọlẹ)",
-  "memorial-title": "🕊️ Ni Iranti Ifẹ ti Christina Muzheki Manjengwa",
-  "memorial-text": "Ile-ẹkọ yii jẹ igbẹhin si arabinrin agbalagba mi olufẹ <b>Christina Muzheki Manjengwa</b> ti o sinmi ni <b>Ọjọ 8 Oṣu Kẹjọ 2026 ti a si sin ni Ọjọ 11 Oṣu Kẹjọ ti o jẹ Isinmi Ọjọ Awọn Akọni ti Zimbabwe</b>.<br>Ifẹ rẹ, itọsọna ati agbara rẹ tẹsiwaju lati fun wa ni iyanju lati mu Africa lagbara.<br><em style='color:#fbbf24'>Laelae ni ọkan wa. Sinmi ni agbara, Arabinrin.</em>",
-  "quick-nav": "Lilọ kiri Yara",
-  "intro": "IFIHAN — KINI PI NETWORK?",
-  "intro-p1": "Pi Network jẹ owo oni-nọmba ati iṣẹ akanṣe ilolupo agbaye ti a ṣe lati jẹ ki cryptocurrency wa ati wulo fun gbogbo eniyan.",
-  "intro-p2": "Ko dabi awọn cryptocurrency ibile ti o nilo awọn ẹrọ iwakusa gbowolori, Pi Network ngbanilaaye awọn eniyan lasan lati kopa ta taara lati awọn foonu wọn.",
-  "intro-p3": "Kini idi ti Pi fun Africa?",
-  "intro-list": "<li>Kọ eto-ọrọ oni-nọmba ti o pẹlu gbogbo eniyan laisi banki</li><li>Mu awọn eniyan lasan lagbara ni agbaye pẹlu iwakusa foonu</li><li>Mu lilo gidi pọ si nipasẹ awọn ohun elo ati DApps</li><li>Ṣe atilẹyin iṣowo eniyan-si-eniyan ati dinku owo</li><li>Ti a ṣẹda nipasẹ Stanford PhDs - Dokita Nicolas Kokkalis & Dokita Chengdiao Fan</li><li>Ju 60 Milionu Pioneers ni agbaye</li>",
-  "ch1": "ORI 1 — IFORUKỌSILẸ & BIBẸRẸ",
-  "ch1-p1": "<b>Igbesẹ 1:</b> Ṣe igbasilẹ Pi Network - Lo ọna asopọ: <a href='https://minepi.com/chigalex1'>minepi.com/chigalex1</a>",
-  "ch1-p2": "<b>Igbesẹ 2:</b> Forukọsilẹ pẹlu Facebook tabi Foonu → Tẹ koodu: <b>CHIGALEX1</b> → Gba ere 1 Pi",
-  "ch1-p3": "<b>Iwakusa Ojoojumọ:</b> Pada ni gbogbo wakati 24 ki o tẹ bọtini manamana lati tẹsiwaju iwakusa.",
-  "ch1-p4": "Awọn Aṣiṣe ti o Wọpọ lati Yago fun:",
-  "ch1-list2": "<li>Maṣe lo orukọ eke - gbọdọ ba ID mu fun KYC</li><li>Maṣe ṣẹda awọn akọọlẹ pupọ - eniyan kan akọọlẹ kan</li><li>Ṣeto itaniji fun iwakusa ni gbogbo wakati 24 lati tọju oṣuwọn</li><li>Darapọ mọ Circle aabo lẹhin ọjọ 3 pẹlu eniyan 5 ti o gbẹkẹle</li>",
-  "ch1-check": "Atokọ Ayẹwo Mainnet",
-  "ch1-list": "<li>Ṣẹda apamọwọ Pi ni aabo</li><li>Pari 2FA</li><li>Pari KYC</li><li>Mura fun ijira Mainnet</li>",
-  "security-msg": "⚠️ Aabo Apamọwọ: Maṣe pin awọn ọrọ 24 passphrase rẹ lailai! Ẹgbẹ Pi Core KII YOO beere lọwọ rẹ!",
-  "ch2": "ORI 2 — ẸKỌ APAMỌWỌ PI",
-  "ch2-p1": "Apamọwọ Pi rẹ ni banki rẹ ninu Pi Ecosystem. O di awọn owó Pi rẹ mu ni aabo lori blockchain.",
-  "ch2-p2": "<b>Bi o ṣe le ṣẹda:</b> Ṣii Pi Browser → Wallet → Ṣẹda Wallet → DA awọn ọrọ rẹ 24 kọ → Fipamọ ni offline ni awọn aaye 2 ailewu.",
-  "ch2-p3": "<b>Gbigba Pi:</b> Pin adirẹsi gbangba rẹ (bẹrẹ pẹlu G...). <b>Fifiranṣẹ Pi:</b> Lẹẹ adirẹsi olugba, tẹ iye, jẹrisi.",
-  "ch2-p4": "Awọn Ofin Aabo Apamọwọ:",
-  "ch2-list": "<li>Kọ passphrase sori iwe, kii ṣe sikirinifọto</li><li>Tọju ni awọn aaye 2 ailewu oriṣiriṣi (kii ṣe foonu nikan)</li><li>Idanwo pẹlu 1 Pi ṣaaju fifiranṣẹ iye nla</li><li>Ṣayẹwo awọn lẹta 4 akọkọ ati 4 ikẹhin ti adirẹsi nigbagbogbo</li>",
-  "ch2a": "ORI 2A — IKẸKỌ APAMỌWỌ TI O WULO",
-  "ch2a-p1": "Iṣe: Bẹrẹ pẹlu iye idanwo kekere (1 Pi). Jẹrisi awọn lẹta 4 akọkọ ati 4 ikẹhin ti adirẹsi baamu. Maṣe lẹẹ passphrase rẹ lori oju opo wẹẹbu eyikeyi!",
-  "ch2a-p2": "<b>Idaraya Ifiwe:</b> Ninu ikẹkọ yii, a yoo ṣe afihan ifiwe ti fifiranṣẹ 1 Pi si omiiran pioneer lati kọ igbẹkẹle. Ranti: Awọn iṣowo Blockchain ko le yipada!",
-  "ch3": "ORI 3 — OYE PI ECOSYSTEM",
-  "ch3-p1": "Pi Browser dabi Google Play Store fun Pi. DApps jẹ awọn ohun elo ti a pin kaakiri fun lilo gidi — riraja, ẹkọ, awọn ere, awọn iṣẹ gbogbo ni lilo Pi.",
-  "ch3-p2": "Awọn DApps Pataki ni Africa:",
-  "ch3-list": "<li>Pi Chain Mall (PCM) - Ile itaja nla fun Pi</li><li>WorkforcePool - Awọn iṣẹ fun Pioneers</li><li>CareForPi - Atilẹyin ilera</li><li>Chigalex1 Hub - Ẹkọ (App yii)</li><li>Ati 100+ awọn ohun elo diẹ sii</li>",
-  "ch4": "ORI 4 — MAPOFPI & IṢỌPỌ IṢOWO",
-  "ch4-p1": "Ṣe awari awọn iṣowo ti o gba Pi ni agbaye lori mapofpi.com. Forukọsilẹ iṣowo tirẹ ki o bẹrẹ gbigba Pi fun awọn ọja ati iṣẹ.",
-  "ch4-p2": "<b>Bi o ṣe le Forukọsilẹ Iṣowo Rẹ:</b> Lọ si mapofpi.com → Sopọ pẹlu Pi Wallet → Fi Iṣowo kun → Fi awọn fọto, ipo, awọn ọja kun → Awọn alabara yoo rii ọ! Eyi ni bi Africa yoo ṣe ṣe itọsọna ni gbigba Pi.",
-  "ch5": "ORI 5 — OYE GCV",
-  "ch5-p1": "Iye Ijẹrisi Agbaye (GCV) n gba lilo gidi niyanju. 1 Pi = $314,159 GCV. Iye yii jẹ nipasẹ awọn pioneers ti nlo Pi ni iṣowo gidi.",
-  "ch5-p2": "<b>Itumọ GCV:</b> GCV kii ṣe idiyele paṣipaarọ. O jẹ iṣipopada lati daabobo iye Pi nipa lilo Pi ni ijẹrisi giga ninu barter tiwa. Nigba ti a ba lo Pi fun awọn ọja gidi ni GCV, a ṣẹda ibeere ati lilo. Eyi ni agbara eto-ọrọ fun Africa.",
-  "ch6": "ORI 6 — ẸKỌ & IWADI",
-  "ch6-p1": "Kẹkọọ iwe afọwọkọ Doris Yin fun ẹda ohun elo ati idagbasoke ilolupo. Ṣe iwadi, kọ ẹkọ, ki o kọ awọn miiran — eyi ni bi a ṣe n mu Africa lagbara.",
-  "ch6-p2": "<b>Ipa Rẹ gẹgẹ bi Pioneer Africa:</b> Kọ ẹkọ → Ṣe adaṣe → Kọ eniyan 2 → Awọn 2 yẹn kọ 2 miiran. Eyi ni bi a ṣe de 1 Milionu awọn ara Africa ti o kọ ẹkọ! Ṣe igbasilẹ Whitepaper, ka, ki o pin imọ lojoojumọ.",
-  "final-title": "Ifiranṣẹ Ipari",
-  "final-msg": "<b>Africa ni aye lati jẹ ọkan ninu awọn agbegbe ti o lagbara julọ ni lilo to wulo laarin Pi Ecosystem. Papọ A Kọ. Papọ A Kọni.</b>"
+  "code": "yo",
+  "label": "Yoruba ★ FULL",
+  "chapters": [
+    {
+      "title": "CHAPTER 1 - REGISTRATION - Yoruba",
+      "summary": "Stanford PhDs 2019, 60M Pioneers, minepi.com/chigalex1, code CHIGALEX1, real name as ID, lightning every 24h"
+    },
+    {
+      "title": "CHAPTER 2 - SECURITY CIRCLE - Yoruba",
+      "summary": "After 3 days, 3-5 trusted people 20% each =100% boost, referral 25% bonus"
+    },
+    {
+      "title": "CHAPTER 3 - PI WALLET & 24 WORDS - Yoruba",
+      "summary": "24 WORDS = BANK MASTER KEY! Write on PAPER twice, NEVER screenshot, Test Pi faucet 100"
+    },
+    {
+      "title": "CHAPTER 4 - KYC & MAINNET - Yoruba",
+      "summary": "KYC FREE, docs ZW green ID, bright room, 8 steps checklist"
+    },
+    {
+      "title": "CHAPTER 5 - GCV 314159 - Yoruba",
+      "summary": "GCV not exchange price, Doris Yin, MapOfPi chicken 0.00001 Pi"
+    },
+    {
+      "title": "CHAPTER 6 - EDUCATION & MISSION - Yoruba",
+      "summary": "Learn Practice Teach 2 to 1M Pioneers, 2030 farmer sells maize for Pi"
+    },
+    {
+      "title": "CHAPTER 7 - SECURITY & SCAM - Yoruba",
+      "summary": "5 Golden Rules: never share 24 words QR, only official apps"
+    }
+  ],
+  "invite_code": "CHIGALEX1",
+  "backend": "https://chigalex1-backend.onrender.com",
+  "gcv": "$314,159"
 }
