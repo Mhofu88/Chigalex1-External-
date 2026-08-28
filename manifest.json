@@ -1,0 +1,24 @@
+{
+  "name": "Chigalex1 Pi Network - V19 Utility Empire University",
+  "short_name": "Chigalex1",
+  "description": "Free Pi Network Education - 7 Chapters FULL DETAILED TRAINING - Registration, Wallet 24 Words, KYC, GCV $314,159 - Invitation CHIGALEX1",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a12",
+  "theme_color": "#8b5cf6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://chigalex1-external.onrender.com/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://chigalex1-external.onrender.com/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
