@@ -1,47 +1,37 @@
 {
-  "app-title": "Centre ya Mateya ya Ba Pionnier ya Afrika - Ya Libanda",
-  "welcome-title": "BOYEYI MALAMU NA CHIGALEX1",
-  "welcome-sub": "Ekuke ya Kotombola Afrika na nzela ya Pi Ecosystem",
-  "africa-day": "(Na feti ya Mokolo ya Afrika ya 25, Application oyo ya Formation ya Pi Pioneers efungwami)",
-  "memorial-title": "🕊️ Na Bokundoli Bolingo ya Christina Muzheki Manjengwa",
-  "memorial-text": "Centre oyo ya Mateya epesami mpo na ndeko ya mwasi ya kulutu ya bolingo <b>Christina Muzheki Manjengwa</b> oyo apemaki na <b>8 Aout 2026 mpe akundami na 11 Aout ezali Mokolo ya Ba Héros ya Zimbabwe</b>.<br>Bolingo na yo, bokambi na makasi na yo ezali kolendisa mission na biso ya kotombola Afrika.<br><em style='color:#fbbf24'>Libela na mitema na biso. Pema na Nguya, Ndeko.</em>",
-  "quick-nav": "Botamboli ya Mbangu",
-  "intro": "MALOBA YA LIBOSO — PI NETWORK NINI?",
-  "intro-p1": "Pi Network ezali mbongo ya numerique mpe projet ya ecosystem ya mokili mobimba oyo esalemi mpo ete crypto ezala pete mpe ya tina mpo na moto nyonso.",
-  "intro-p2": "Na bokeseni na ba crypto ya kala oyo esengaka ba machine ya talo, Pi Network epesaka bato ya pamba nzela ya kokota direct na ba telephone na bango.",
-  "intro-p3": "Mpo na nini Pi mpo na Afrika?",
-  "intro-list": "<li>Tonga nkita ya numerique oyo ekangisi bato nyonso kukonda banki</li><li>Tombola bato ya pamba na mokili mobimba na botimoli ya telefone</li><li>Bakisa bosaleli ya solo na ba utilitaires na DApps</li><li>Sunga mombongo ya moto na moto pe kitisa ba frais</li><li>Esalemaki na Stanford PhDs - Dr Nicolas Kokkalis & Dr Chengdiao Fan</li><li>Koleka 60 Millions ya ba Pionnier na mokili</li>",
-  "ch1": "CAPITRE 1 — KOMIKOMISA & KOBANDA",
-  "ch1-p1": "<b>Litambwisi 1:</b> Kitisa Pi Network - Salela lien: <a href='https://minepi.com/chigalex1'>minepi.com/chigalex1</a>",
-  "ch1-p2": "<b>Litambwisi 2:</b> Mikomisa na Facebook to Telephone → Tia code: <b>CHIGALEX1</b> → Zwa lifuti ya 1 Pi",
-  "ch1-p3": "<b>Botimoli ya Mokolo na Mokolo:</b> Zonga na mikolo 24 nyonso finya bouton ya nsasi mpo na kokoba botimoli.",
-  "ch1-p4": "Mabe ya mingi ya koboya:",
-  "ch1-list2": "<li>Kosalela te kombo ya lokuta - esengeli kokokana na ID mpo na KYC</li><li>Kokela te ba compte ebele - moto moko compte moko</li><li>Tia alarme ya botimoli na mikolo 24 nyonso mpo na kobatela vitesse</li><li>Kota na cercle ya bokengi sima ya mikolo 3 na bato 5 ya confiance</li>",
-  "ch1-check": "Liste ya Mainnet",
-  "ch1-list": "<li>Kela portefeuille ya Pi na bokengi</li><li>Silisa 2FA</li><li>Silisa KYC</li><li>Bongama mpo na Mainnet</li>",
-  "security-msg": "⚠️ Bokengi ya portefeuille: KOKABOLA te maloba 24 ya passphrase na yo! Equipe ya Pi Core ekotuna yo ata moke te!",
-  "ch2": "CAPITRE 2 — MATEYA YA PORTEFEUILLE PI",
-  "ch2-p1": "Portefeuille ya Pi na yo ezali banki na yo na Pi Ecosystem. Ebombaka mbongo na yo ya Pi na bokengi na blockchain.",
-  "ch2-p2": "<b>Ndenge ya kokela:</b> Fungola Pi Browser → Wallet → Kela Wallet → KOPIA maloba 24 na yo → Bomba offline na bisika 2 ya bokengi.",
-  "ch2-p3": "<b>Kozwa Pi:</b> Kabola adresse ya yo ya public (ebandi na G...). <b>Kotinda Pi:</b> Tia adresse ya moto azwa, tia motango, confirmer.",
-  "ch2-p4": "Mibeko ya bokengi ya portefeuille:",
-  "ch2-list": "<li>Koma passphrase na papier, te capture</li><li>Bomba na bisika 2 ya bokengi ekeseni (te telephone kaka)</li><li>Meka na 1 Pi liboso ya kotinda mbongo ya minene</li><li>Tala ba lettres 4 ya liboso na 4 ya suka ya adresse mikolo nyonso</li>",
-  "ch2a": "CAPITRE 2A — FORMATION YA PRATIQUE",
-  "ch2a-p1": "Pratique: Banda na mbongo moke ya test (1 Pi). Verifier ba lettres 4 ya liboso na 4 ya suka ya adresse ekokani. Kokotisa te passphrase na site moko te!",
-  "ch2a-p2": "<b>Exercice ya direct:</b> Na formation oyo, tokosala demo ya direct ya kotinda 1 Pi na pionnier mosusu mpo na kotonga confiance. Bambuka: Transaction ya Blockchain ezali irréversible!",
-  "ch3": "CAPITRE 3 — KOYEBA PI ECOSYSTEM",
-  "ch3-p1": "Pi Browser lokola Google Play Store mpo na Pi. DApps ezali ba application oyo ekabwani mpo na bosaleli ya solo — kosomba, mateya, ba jeux, misala nyonso na Pi.",
-  "ch3-p2": "Ba DApps ya ntina na Afrika:",
-  "ch3-list": "<li>Pi Chain Mall (PCM) - Zando ya Pi</li><li>WorkforcePool - Misala mpo na ba Pionnier</li><li>CareForPi - Lisungi ya santé</li><li>Chigalex1 Hub - Mateya (Application oyo)</li><li>Na 100+ ya utilitaires mosusu</li>",
-  "ch4": "CAPITRE 4 — MAPOFPI & BOSANGANI YA MOMBONGO",
-  "ch4-p1": "Luka ba business oyo endimaka Pi na mokili mobimba na mapofpi.com. Komisa business na yo moko pe banda kondima Pi mpo na biloko na misala.",
-  "ch4-p2": "<b>Ndenge ya kokomisa business na yo:</b> Kende mapofpi.com → Sangana na Pi Wallet → Bakisa Business → Bakisa ba photo, bisika, biloko → Ba clients bakozwa yo! Ndenge wana Afrika ekokamba adoption ya Pi.",
-  "ch5": "CAPITRE 5 — KOYEBA GCV",
-  "ch5-p1": "Valeur ya Consensus Mondial (GCV) ezali kolendisa bosaleli ya solo. 1 Pi = $314,159 GCV. Valeur oyo etongami na ba pionnier oyo basalelaka Pi na mombongo ya solo.",
-  "ch5-p2": "<b>Ntina ya GCV:</b> GCV ezali te prix ya échange. Ezali mouvement mpo na kobatela valeur ya Pi na kosalela Pi na consensus ya makasi na troc na biso. Soki tosaleli Pi mpo na biloko ya solo na GCV, tokelaka demande na bosaleli. Yango ezali botomboli ya nkita mpo na Afrika.",
-  "ch6": "CAPITRE 6 — MATEYA & BOLUKULUKI",
-  "ch6-p1": "Tanga manuel ya Doris Yin mpo na bokeli ya bosaleli na bokoli ya ecosystem. Luka, yekola, pe teya bato mosusu — ndenge wana nde tokotombola Afrika.",
-  "ch6-p2": "<b>Mokumba na yo lokola Pionnier ya Afrika:</b> Yekola → Sala → Teya bato 2 → Bango 2 bateya 2 mosusu. Ndenge wana nde tokokoma na 1 Million ya ba Afrika ya mayele! Kitisa Whitepaper, tanga, pe kabola mayele mikolo nyonso.",
-  "final-title": "Sango ya Suka",
-  "final-msg": "<b>Afrika ezali na chance ya kozala moko ya ba region ya makasi na bosaleli ya pratique kati na Pi Ecosystem. Elongo Totonga. Elongo Toteya.</b>"
+  "code": "ln",
+  "label": "Lingala - Lingala ★ FULL",
+  "chapters": [
+    {
+      "title": "CHAPTER 1 - REGISTRATION - Lingala",
+      "summary": "Stanford PhDs 2019, 60M Pioneers, minepi.com/chigalex1, code CHIGALEX1, real name as ID, lightning every 24h"
+    },
+    {
+      "title": "CHAPTER 2 - SECURITY CIRCLE - Lingala",
+      "summary": "After 3 days, 3-5 trusted people 20% each =100% boost, referral 25% bonus"
+    },
+    {
+      "title": "CHAPTER 3 - PI WALLET & 24 WORDS - Lingala",
+      "summary": "24 WORDS = BANK MASTER KEY! Write on PAPER twice, NEVER screenshot, Test Pi faucet 100"
+    },
+    {
+      "title": "CHAPTER 4 - KYC & MAINNET - Lingala",
+      "summary": "KYC FREE, docs ZW green ID, bright room, 8 steps checklist"
+    },
+    {
+      "title": "CHAPTER 5 - GCV 314159 - Lingala",
+      "summary": "GCV not exchange price, Doris Yin, MapOfPi chicken 0.00001 Pi"
+    },
+    {
+      "title": "CHAPTER 6 - EDUCATION & MISSION - Lingala",
+      "summary": "Learn Practice Teach 2 to 1M Pioneers, 2030 farmer sells maize for Pi"
+    },
+    {
+      "title": "CHAPTER 7 - SECURITY & SCAM - Lingala",
+      "summary": "5 Golden Rules: never share 24 words QR, only official apps"
+    }
+  ],
+  "invite_code": "CHIGALEX1",
+  "backend": "https://chigalex1-backend.onrender.com",
+  "gcv": "$314,159"
 }
