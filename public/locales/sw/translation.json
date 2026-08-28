@@ -1,47 +1,37 @@
 {
-  "app-title": "Kitovu cha Elimu cha Africa Pioneers - Nje",
-  "welcome-title": "KARIBU CHIGALEX1",
-  "welcome-sub": "Lango la Kuwawezesha Afrika Kupitia Pi Ecosystem",
-  "africa-day": "(Katika kusherehekea Siku ya Afrika ya 25, Maombi haya ya Mafunzo ya Pi Pioneers yamezinduliwa)",
-  "memorial-title": "🕊️ Kwa Kumbukumbu ya Upendo ya Christina Muzheki Manjengwa",
-  "memorial-text": "Kitovu hiki cha Elimu kimewekwa wakfu kwa dada yangu mkubwa mpendwa <b>Christina Muzheki Manjengwa</b> aliyepumzika tarehe <b>8 Agosti 2026 na kuzikwa tarehe 11 Agosti ikiwa ni Siku ya Mashujaa wa Zimbabwe</b>.<br>Upendo wako, mwongozo na nguvu zako zinaendelea kuhamasisha dhamira yetu ya kuwawezesha Afrika.<br><em style='color:#fbbf24'>Milele mioyoni mwetu. Pumzika kwa Nguvu, Dada.</em>",
-  "quick-nav": "Urambazaji wa Haraka",
-  "intro": "UTANGULIZI — PI NETWORK NI NINI?",
-  "intro-p1": "Pi Network ni sarafu ya dijiti na mradi wa mfumo wa ikolojia wa ulimwengu ulioundwa kufanya cryptocurrency ipatikane na iwe na manufaa kwa kila mtu.",
-  "intro-p2": "Tofauti na sarafu za crypto za jadi zinazohitaji mashine za uchimbaji ghali, Pi Network inaruhusu watu wa kawaida kushiriki moja kwa moja kutoka kwa simu zao.",
-  "intro-p3": "Kwa nini Pi kwa Afrika?",
-  "intro-list": "<li>Jenga uchumi wa dijiti unaojumuisha wote bila benki</li><li>Wawezeshe watu wa kawaida duniani kote kwa uchimbaji wa simu</li><li>Ongeza matumizi ya maisha halisi kupitia matumizi na DApps</li><li>Saida biashara ya mtu-kwa-mtu na punguza ada</li><li>Imeundwa na Stanford PhDs - Dk. Nicolas Kokkalis & Dk. Chengdiao Fan</li><li>Waanzilishi Milioni 60+ duniani kote</li>",
-  "ch1": "SURA YA 1 — USAJILI & KUANZA",
-  "ch1-p1": "<b>Hatua ya 1:</b> Pakua Pi Network - Tumia kiungo: <a href='https://minepi.com/chigalex1'>minepi.com/chigalex1</a>",
-  "ch1-p2": "<b>Hatua ya 2:</b> Jisajili na Facebook au Simu → Ingiza msimbo: <b>CHIGALEX1</b> → Pata zawadi ya 1 Pi",
-  "ch1-p3": "<b>Uchimbaji wa Kila Siku:</b> Rudi kila masaa 24 na bonyeza kitufe cha umeme kuendelea kuchimba.",
-  "ch1-p4": "Makosa ya Kawaida ya Kuepuka:",
-  "ch1-list2": "<li>Usitumie jina bandia - lazima lilingane na kitambulisho kwa KYC</li><li>Usiunde akaunti nyingi - mtu mmoja akaunti moja</li><li>Weka kengele ya uchimbaji kila masaa 24 ili kudumisha kiwango</li><li>Jiunge na duara la usalama baada ya siku 3 na watu 5 unaowaamini</li>",
-  "ch1-check": "Orodha ya Ukaguzi ya Mainnet",
-  "ch1-list": "<li>Unda mkoba wa Pi kwa usalama</li><li>Kamilisha 2FA</li><li>Kamilisha KYC</li><li>Jiandae kwa uhamiaji wa Mainnet</li>",
-  "security-msg": "⚠️ Usalama wa mkoba: KAMWE usishiriki maneno yako 24 ya siri! Timu ya Pi Core HAITAWA kuuliza!",
-  "ch2": "SURA YA 2 — ELIMU YA MKOBA WA PI",
-  "ch2-p1": "Mkoba wako wa Pi ni benki yako katika Pi Ecosystem. Inashikilia sarafu zako za Pi kwa usalama kwenye blockchain.",
-  "ch2-p2": "<b>Jinsi ya kuunda:</b> Fungua Pi Browser → Wallet → Unda Wallet → NAKILI maneno yako 24 → Hifadhi nje ya mtandao katika sehemu 2 salama.",
-  "ch2-p3": "<b>Kupokea Pi:</b> Shiriki anwani yako ya umma (inaanza na G...). <b>Kutuma Pi:</b> Bandika anwani ya mpokeaji, ingiza kiasi, thibitisha.",
-  "ch2-p4": "Sheria za Usalama wa Mkoba:",
-  "ch2-list": "<li>Andika maneno ya siri kwenye karatasi, si picha ya skrini</li><li>Hifadhi katika sehemu 2 tofauti salama (si simu pekee)</li><li>Jaribu na 1 Pi kabla ya kutuma kiasi kikubwa</li><li>Angalia herufi 4 za kwanza na 4 za mwisho za anwani kila wakati</li>",
-  "ch2a": "SURA YA 2A — MAFUNZO YA MKOBA YA VITENDO",
-  "ch2a-p1": "Vitendo: Anza na kiasi kidogo cha majaribio (1 Pi). Thibitisha herufi 4 za kwanza na 4 za mwisho za anwani zinalingana. Kamwe usibandike maneno yako ya siri kwenye tovuti yoyote!",
-  "ch2a-p2": "<b>Zoezi la Moja kwa Moja:</b> Katika mafunzo haya, tutafanya onyesho la moja kwa moja la kutuma 1 Pi kwa mwanzilishi mwingine ili kujenga ujasiri. Kumbuka: Miamala ya Blockchain haiwezi kutenduliwa!",
-  "ch3": "SURA YA 3 — KUELEWA PI ECOSYSTEM",
-  "ch3-p1": "Pi Browser ni kama Google Play Store ya Pi. DApps ni programu zilizogatuliwa kwa matumizi halisi — ununuzi, elimu, michezo, huduma zote zinazotumia Pi.",
-  "ch3-p2": "DApps Muhimu barani Afrika:",
-  "ch3-list": "<li>Pi Chain Mall (PCM) - Duka kuu la Pi</li><li>WorkforcePool - Kazi kwa Waanzilishi</li><li>CareForPi - Msaada wa afya</li><li>Chigalex1 Hub - Elimu (App Hii)</li><li>Na matumizi 100+ zaidi</li>",
-  "ch4": "SURA YA 4 — MAPOFPI & UJUMUISHWAJI WA BIASHARA",
-  "ch4-p1": "Gundua biashara zinazokubali Pi duniani kote kwenye mapofpi.com. Sajili biashara yako mwenyewe na anza kukubali Pi kwa bidhaa na huduma.",
-  "ch4-p2": "<b>Jinsi ya Kusajili Biashara Yako:</b> Nenda mapofpi.com → Unganisha na Pi Wallet → Ongeza Biashara → Ongeza picha, eneo, bidhaa → Wateja watakukuta! Hivi ndivyo Afrika itaongoza katika kupitishwa kwa Pi.",
-  "ch5": "SURA YA 5 — KUELEWA GCV",
-  "ch5-p1": "Thamani ya Makubaliano ya Ulimwengu (GCV) inahimiza matumizi halisi. 1 Pi = $314,159 GCV. Thamani hii imejengwa na waanzilishi wanaotumia Pi katika biashara halisi.",
-  "ch5-p2": "<b>Maana ya GCV:</b> GCV sio bei ya kubadilishana. Ni harakati ya kulinda thamani ya Pi kwa kutumia Pi kwa makubaliano ya juu katika biashara yetu wenyewe. Tunapotumia Pi kwa bidhaa halisi kwa GCV, tunaunda mahitaji na matumizi. Hii ni uwezeshaji wa kiuchumi kwa Afrika.",
-  "ch6": "SURA YA 6 — ELIMU & UTAFITI",
-  "ch6-p1": "Soma mwongozo wa Doris Yin kwa uundaji wa matumizi na ukuaji wa mfumo wa ikolojia. Tafiti, jifunze, na fundisha wengine — hivi ndivyo tunavyowawezesha Afrika.",
-  "ch6-p2": "<b>Jukumu Lako kama Mwanzilishi wa Afrika:</b> Jifunze → Fanya Mazoezi → Fundisha watu 2 → Hao 2 wafundishe 2 wengine. Hivi ndivyo tunavyofikia Waafrika Milioni 1 walioelimika! Pakua Whitepaper, soma, na shiriki maarifa kila siku.",
-  "final-title": "Ujumbe wa Mwisho",
-  "final-msg": "<b>Afrika ina fursa ya kuwa moja ya mikoa yenye nguvu zaidi katika matumizi ya vitendo ndani ya Pi Ecosystem. Pamoja Tunajenga. Pamoja Tunaelimisha.</b>"
+  "code": "sw",
+  "label": "Swahili - Kiswahili ★ FULL",
+  "chapters": [
+    {
+      "title": "CHAPTER 1 - REGISTRATION - Kiswahili",
+      "summary": "Stanford PhDs 2019, 60M Pioneers, minepi.com/chigalex1, code CHIGALEX1, real name as ID, lightning every 24h"
+    },
+    {
+      "title": "CHAPTER 2 - SECURITY CIRCLE - Kiswahili",
+      "summary": "After 3 days, 3-5 trusted people 20% each =100% boost, referral 25% bonus"
+    },
+    {
+      "title": "CHAPTER 3 - PI WALLET & 24 WORDS - Kiswahili",
+      "summary": "24 WORDS = BANK MASTER KEY! Write on PAPER twice, NEVER screenshot, Test Pi faucet 100"
+    },
+    {
+      "title": "CHAPTER 4 - KYC & MAINNET - Kiswahili",
+      "summary": "KYC FREE, docs ZW green ID, bright room, 8 steps checklist"
+    },
+    {
+      "title": "CHAPTER 5 - GCV 314159 - Kiswahili",
+      "summary": "GCV not exchange price, Doris Yin, MapOfPi chicken 0.00001 Pi"
+    },
+    {
+      "title": "CHAPTER 6 - EDUCATION & MISSION - Kiswahili",
+      "summary": "Learn Practice Teach 2 to 1M Pioneers, 2030 farmer sells maize for Pi"
+    },
+    {
+      "title": "CHAPTER 7 - SECURITY & SCAM - Kiswahili",
+      "summary": "5 Golden Rules: never share 24 words QR, only official apps"
+    }
+  ],
+  "invite_code": "CHIGALEX1",
+  "backend": "https://chigalex1-backend.onrender.com",
+  "gcv": "$314,159"
 }
