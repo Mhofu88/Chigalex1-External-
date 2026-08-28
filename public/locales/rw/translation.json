@@ -1,47 +1,37 @@
 {
-  "app-title": "Ikigo cy'Uburezi cy'Abapayiniya ba Afurika - Hanze",
-  "welcome-title": "MURAKAZA NEZA KURI CHIGALEX1",
-  "welcome-sub": "Irembo ryo Gushimangira Afurika binyuze muri Pi Ecosystem",
-  "africa-day": "(Mu kwizihiza Umunsi wa Afurika wa 25, iyi Porogaramu yo Kwamaza Pi Pioneers iratangijwe)",
-  "memorial-title": "🕊️ Mu Kwibuka Urukundo kwa Christina Muzheki Manjengwa",
-  "memorial-text": "Iki Kigo cy'Uburezi cyatanzwe ku mukuru wanjye nkunda <b>Christina Muzheki Manjengwa</b> waruhutse ku <b>itariki ya 8 Kanama 2026 kandi washyinguwe ku ya 11 Kanama ari Umunsi w'Intwari wa Zimbabwe</b>.<br>Urukundo rwawe, ubuyobozi n'imbaraga zawe bikomeje gushishikariza inshingano yacu yo gushimangira Afurika.<br><em style='color:#fbbf24'>Iteka mu mitima yacu. Ruhukira mu Mahoro, Mushiki wanjye.</em>",
-  "quick-nav": "Kugenda Byihuse",
-  "intro": "INTANGIRIRO — PI NETWORK NI IKI?",
-  "intro-p1": "Pi Network ni ifaranga rya digitale n'umushinga w'ibidukikije ku rwego rw'isi wagenewe gutuma cryptocurrency igerwaho kandi igirire akamaro kuri buri wese.",
-  "intro-p2": "Bitandukanye n'andi ma-cryptocurrencies gakondo asaba imashini zicukura zihenze, Pi Network yemerera abantu basanzwe kugira uruhare mu buryo butaziguye bavuye kuri telefone zabo.",
-  "intro-p3": "Kuki Pi kuri Afurika?",
-  "intro-list": "<li>Kubaka ubukungu bwa digitale inclusive bitagira banki</li><li>Guha imbaraga abantu basanzwe kw'isi hamwe na telefoni icukura</li><li>Kwongera ikoreshwa rya nyaryo binyuze muri utilities na DApps</li><li>Gushyigikira ubucuruzi bw'umuntu ku muntu no kugabanya amafaranga</li><li>Yakozwe na Stanford PhDs - Dr Nicolas Kokkalis & Dr Chengdiao Fan</li><li>Abapayiniya Miliyoni 60+ kw'isi</li>",
-  "ch1": "IGICE CYA 1 — KWIYANDIKISHA & GUTANGIRA",
-  "ch1-p1": "<b>Intambwe 1:</b> Kuramo Pi Network - Koresha ihuriro: <a href='https://minepi.com/chigalex1'>minepi.com/chigalex1</a>",
-  "ch1-p2": "<b>Intambwe 2:</b> Iyandikishe na Facebook cyangwa Terefone → Andika code: <b>CHIGALEX1</b> → Bonye igihembo cya 1 Pi",
-  "ch1-p3": "<b>Ubucukuzi bwa Buri Munsi:</b> Garuka buri ma saa 24 hanyuma ukande buto y'umurabyo kugirango ukomeze ubucukuzi.",
-  "ch1-p4": "Amakosa Rusange yo Kwirinda:",
-  "ch1-list2": "<li>Ntukoreshe izina ry'impimbano - rigomba guhuza na ID kuri KYC</li><li>Ntukore konti nyinshi - umuntu umwe konti imwe</li><li>Shyiraho alarm yo gucukura buri ma saa 24 kugirango ukomeze igipimo</li><li>Injira mu ruziga rw'umutekano nyuma y'iminsi 3 hamwe n'abantu 5 wizeye</li>",
-  "ch1-check": "Urutonde rw'Igenzura rya Mainnet",
-  "ch1-list": "<li>Kora wallet ya Pi mu mutekano</li><li>Zuza 2FA</li><li>Zuza KYC</li><li>Tegura kwimukira kwa Mainnet</li>",
-  "security-msg": "⚠️ Umutekano wa Wallet: NTIBAZE usangize amagambo yawe 24 y'ibanga! Ikipe ya Pi Core NTIZAZIGERA ibikubaza!",
-  "ch2": "IGICE CYA 2 — UBUREZI BWA WALLET YA PI",
-  "ch2-p1": "Wallet ya Pi yawe ni banki yawe muri Pi Ecosystem. Ifata amafaranga yawe ya Pi mu mutekano kuri blockchain.",
-  "ch2-p2": "<b>Uburyo bwo Kurema:</b> Fungura Pi Browser → Wallet → Kora Wallet → KOPIYA amagambo yawe 24 → Bika offline ahantu 2 hizewe.",
-  "ch2-p3": "<b>Kwakira Pi:</b> Sangiza aderesi yawe rusange (itangira na G...). <b>Kohereza Pi:</b> Gerekaho aderesi y'umwakirizi, andika umubare, emeza.",
-  "ch2-p4": "Amategeko y'Umutekano wa Wallet:",
-  "ch2-list": "<li>Andika passphrase ku rupapuro, si ifoto</li><li>Bika ahantu 2 hatandukanye hizewe (si telefone gusa)</li><li>Gerageza na 1 Pi mbere yo kohereza amafaranga menshi</li><li>Reba inyuguti 4 za mbere na 4 za nyuma za aderesi buri gihe</li>",
-  "ch2a": "IGICE CYA 2A — AMAHUGURWA AFATIKA",
-  "ch2a-p1": "Bifatika: Tangira n'amafaranga make y'igerageza (1 Pi). Emeza ko inyuguti 4 za mbere na 4 za nyuma za aderesi zihura. Ntuzigere ushyira passphrase yawe kurubuga urwo arirwo rwose!",
-  "ch2a-p2": "<b>Imyitozo Iboneye:</b> Muri aya mahugurwa, tuzakora demo iboneye yo kohereza 1 Pi ku wundi mupayiniya kugirango twubake icyizere. Wibuke: Ibikorwa bya Blockchain ntibisubirwaho!",
-  "ch3": "IGICE CYA 3 — GUSOBANUKIRWA PI ECOSYSTEM",
-  "ch3-p1": "Pi Browser imeze nka Google Play Store ya Pi. DApps ni porogaramu zatatanye z'ikoreshwa nyaryo — kugura, uburezi, imikino, serivisi zose zikoresheje Pi.",
-  "ch3-p2": "DApps Z'ingenzi muri Afurika:",
-  "ch3-list": "<li>Pi Chain Mall (PCM) - Iduka rinini rya Pi</li><li>WorkforcePool - Akazi k'Abapayiniya</li><li>CareForPi - Inkunga y'ubuzima</li><li>Chigalex1 Hub - Uburezi (Iyi App)</li><li>N'ibindi bikoresho 100+</li>",
-  "ch4": "IGICE CYA 4 — MAPOFPI & GUHUZA UBUBUCURUZI",
-  "ch4-p1": "Vumbura ubucuruzi bwemera Pi kw'isi yose kuri mapofpi.com. Iyandikishe ubucuruzi bwawe bwite utangire kwakira Pi ku bicuruzwa na serivisi.",
-  "ch4-p2": "<b>Uburyo bwo Kwiyandikisha Ubucuruzi Bwawe:</b> Jya kuri mapofpi.com → Huza na Pi Wallet → Ongeramo Ubucuruzi → Ongeramo amafoto, aho biherereye, ibicuruzwa → Abakiriya bazakubona! Ubu nibwo buryo Afurika izayobora mu kwakira Pi.",
-  "ch5": "IGICE CYA 5 — GUSOBANUKIRWA GCV",
-  "ch5-p1": "Agaciro k'Ubwumvikane ku Isi (GCV) gashishikariza ikoreshwa nyaryo. 1 Pi = $314,159 GCV. Agaciro kariyubatswe n'abapayiniya bakoresha Pi mu bucuruzi nyabwo.",
-  "ch5-p2": "<b>Ibisobanuro bya GCV:</b> GCV ntabwo ari igiciro cy'ivunjisha. Ni umutwe wo kurinda agaciro ka Pi ukoresheje Pi mu bwumvikane bwinshi muri barter yacu bwite. Igihe dukoresheje Pi ku bicuruzwa nyabyo kuri GCV, turema icyifuzo n'ikoreshwa. Ibi ni ugushimangira ubukungu kuri Afurika.",
-  "ch6": "IGICE CYA 6 — UBURERE & UBURENGANZIRA",
-  "ch6-p1": "Iga igitabo cya Doris Yin cyo kurema ikoreshwa no gukura kwa ecosystem. Kora ubushakashatsi, iga, wigishe abandi — ubu nibwo buryo dushimangira Afurika.",
-  "ch6-p2": "<b>Uruhare Rwawe nk'Umupayiniya wa Afurika:</b> Iga → Imenyeshe → Izigishe abantu 2 → Abo 2 bigishe abandi 2. Ubu nibwo buryo tugera kuri Miliyoni 1 y'Abanyafurika bize! Kuramo Whitepaper, usome, kandi usangire ubumenyi buri munsi.",
-  "final-title": "Ubutumwa Bwa Nyuma",
-  "final-msg": "<b>Afurika ifite amahirwe yo kuba imwe mu turere dukomeye mu ikoreshwa rifatika muri Pi Ecosystem. Hamwe Twubaka. Hamwe Turigisha.</b>"
+  "code": "rw",
+  "label": "Kinyarwanda ★ FULL",
+  "chapters": [
+    {
+      "title": "CHAPTER 1 - REGISTRATION - Kinyarwanda",
+      "summary": "Stanford PhDs 2019, 60M Pioneers, minepi.com/chigalex1, code CHIGALEX1, real name as ID, lightning every 24h"
+    },
+    {
+      "title": "CHAPTER 2 - SECURITY CIRCLE - Kinyarwanda",
+      "summary": "After 3 days, 3-5 trusted people 20% each =100% boost, referral 25% bonus"
+    },
+    {
+      "title": "CHAPTER 3 - PI WALLET & 24 WORDS - Kinyarwanda",
+      "summary": "24 WORDS = BANK MASTER KEY! Write on PAPER twice, NEVER screenshot, Test Pi faucet 100"
+    },
+    {
+      "title": "CHAPTER 4 - KYC & MAINNET - Kinyarwanda",
+      "summary": "KYC FREE, docs ZW green ID, bright room, 8 steps checklist"
+    },
+    {
+      "title": "CHAPTER 5 - GCV 314159 - Kinyarwanda",
+      "summary": "GCV not exchange price, Doris Yin, MapOfPi chicken 0.00001 Pi"
+    },
+    {
+      "title": "CHAPTER 6 - EDUCATION & MISSION - Kinyarwanda",
+      "summary": "Learn Practice Teach 2 to 1M Pioneers, 2030 farmer sells maize for Pi"
+    },
+    {
+      "title": "CHAPTER 7 - SECURITY & SCAM - Kinyarwanda",
+      "summary": "5 Golden Rules: never share 24 words QR, only official apps"
+    }
+  ],
+  "invite_code": "CHIGALEX1",
+  "backend": "https://chigalex1-backend.onrender.com",
+  "gcv": "$314,159"
 }
