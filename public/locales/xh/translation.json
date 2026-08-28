@@ -1,47 +1,37 @@
 {
-  "app-title": "Iziko LeMfundo LaMaphayona aseAfrika - Langaphandle",
-  "welcome-title": "WAMKELEKILE KU-CHIGALEX1",
-  "welcome-sub": "Isango Lokuxhobisa iAfrika Nge-Pi Ecosystem",
-  "africa-day": "(Ekubhiyozeleni uSuku lweAfrika lwama-25, esi Sicelo soQeqesho sePi Pioneers siyaqaliswa)",
-  "memorial-title": "🕊️ Kwinkumbulo Yothando kaChristina Muzheki Manjengwa",
-  "memorial-text": "Eli Ziko LeMfundo linikezelwe kudade wethu omdala esithandayo <b>Christina Muzheki Manjengwa</b> owaphumla ngo-<b>8 Agasti 2026 waza wangcwatywa ngo-11 Agasti eyiholide yamaQhawe aseZimbabwe</b>.<br>Uthando lwakho, isikhokelo namandla akho ayaqhubeka ekhuthaza injongo yethu yokuxhobisa iAfrika.<br><em style='color:#fbbf24'>Ngunaphakade ezintliziyweni zethu. Phumla ngamandla, Dade.</em>",
-  "quick-nav": "Ukuhamba ngokukhawuleza",
-  "intro": "INTSHAYELELO — YINTONI I-PI NETWORK?",
-  "intro-p1": "I-Pi Network yimali yedijithali kunye neprojekthi ye-ecosystem yehlabathi eyenzelwe ukwenza i-cryptocurrency ifikeleleke kwaye ibe luncedo kumntu wonke.",
-  "intro-p2": "Ngokungafaniyo nezinye ii-cryptocurrencies ezifuna oomatshini bokumba abiza kakhulu, i-Pi Network ivumela abantu abaqhelekileyo ukuba bathathe inxaxheba ngokuthe ngqo kwiifowuni zabo.",
-  "intro-p3": "Kutheni i-Pi yeAfrika?",
-  "intro-list": "<li>Yakha uqoqosho lwedijithali olubandakanya wonke umntu ngaphandle kweebhanki</li><li>Xhobisa abantu abaqhelekileyo kwihlabathi liphela ngokugrumba kwefowuni</li><li>Yandisa ukusetyenziswa kokwenyani ngokusebenzisa izinto eziluncedo kunye neeDApps</li><li>Xhasa urhwebo lomntu nomntu kunye nokunciphisa iindleko</li><li>Yenziwe ngooGqirha baseStanford - uGqirha Nicolas Kokkalis kunye noGqirha Chengdiao Fan</li><li>Ngaphezu kwezigidi ezingama-60 zeePioneers kwihlabathi liphela</li>",
-  "ch1": "ISAHLUKO 1 — UBHALISO & UKUQALA",
-  "ch1-p1": "<b>Inyathelo 1:</b> Khuphela i-Pi Network - Sebenzisa ikhonkco: <a href='https://minepi.com/chigalex1'>minepi.com/chigalex1</a>",
-  "ch1-p2": "<b>Inyathelo 2:</b> Bhalisa nge-Facebook okanye Ngefowuni → Faka ikhowudi: <b>CHIGALEX1</b> → Fumana umvuzo we-1 Pi",
-  "ch1-p3": "<b>Ukugrumba Kwemihla Ngemihla:</b> Buya rhoqo kwiiyure ezingama-24 kwaye ucofe iqhosha lombane ukuze uqhubeke nokugrumba.",
-  "ch1-p4": "Iimpazamo Eziqhelekileyo Zokuphepha:",
-  "ch1-list2": "<li>Ungasebenzisi igama lobuxoki - kufuneka lihambelane ne-ID ye-KYC</li><li>Ungenzi ii-akhawunti ezininzi - umntu omnye i-akhawunti enye</li><li>Setha i-alamu yokugrumba rhoqo kwiiyure ezingama-24 ukugcina izinga</li><li>Joyina isangqa sokhuseleko emva kweentsuku ezi-3 nabantu abathembekileyo aba-5</li>",
-  "ch1-check": "Uluhlu Lokukhangela lwe-Mainnet",
-  "ch1-list": "<li>Yenza isipaji se-Pi ngokukhuselekileyo</li><li>Gqibezela i-2FA</li><li>Gqibezela i-KYC</li><li>Lungiselela ukufuduka kwe-Mainnet</li>",
-  "security-msg": "⚠️ Ukhuseleko lwesipaji: Ungaze wabelane ngamagama akho angama-24 e-passphrase! Iqela le-Pi Core SOZE likubuze!",
-  "ch2": "ISAHLUKO 2 — IMFUNDO YESIPAJI SE-PI",
-  "ch2-p1": "Isipaji sakho se-Pi yibhanki yakho kwi-Pi Ecosystem. Ibambe iingqekembe zakho ze-Pi ngokukhuselekileyo kwi-blockchain.",
-  "ch2-p2": "<b>Indlela yokudala:</b> Vula i-Pi Browser → Wallet → Dala i-Wallet → KOPIYA amagama akho angama-24 → Gcina ngaphandle kweintanethi kwiindawo ezi-2 ezikhuselekileyo.",
-  "ch2-p3": "<b>Ukufumana i-Pi:</b> Yabelana ngedilesi yakho kawonke-wonke (eqala ngo-G...). <b>Ukuthumela i-Pi:</b> Ncamathela idilesi yomamkeli, faka isixa, qinisekisa.",
-  "ch2-p4": "Imithetho Yokhuseleko Lwesipaji:",
-  "ch2-list": "<li>Bhala i-passphrase ephepheni, hayi umfanekiso wekhusi</li><li>Gcina kwiindawo ezi-2 ezikhuselekileyo ezahlukeneyo (hayi ifowuni kuphela)</li><li>Vavanya nge-1 Pi ngaphambi kokuthumela isixa esikhulu</li><li>Jonga oonobumba abane bokuqala nabane bokugqibela bedilesi rhoqo</li>",
-  "ch2a": "ISAHLUKO 2A — UQEQESHO OLUQHELEKILEYO",
-  "ch2a-p1": "Okubonakalayo: Qala ngesixa esincinci sovavanyo (1 Pi). Qinisekisa ukuba oonobumba abane bokuqala nabane bokugqibela bedilesi bayahambelana. Ungaze uncamathele i-passphrase yakho kuyo nayiphi na iwebhusayithi!",
-  "ch2a-p2": "<b>Umyoliso Ophilayo:</b> Kolu qeqesho, siza kwenza idemo ephilayo yokuthumela i-1 Pi komnye uvulindlela ukwakha ukuzithemba. Khumbula: Uthengiselwano lweBlockchain alunakuguqulwa!",
-  "ch3": "ISAHLUKO 3 — UKUQONDA I-PI ECOSYSTEM",
-  "ch3-p1": "I-Pi Browser ifana ne-Google Play Store ye-Pi. Ii-DApps zizicelo ezisasaziweyo zokusetyenziswa kokwenyani — ukuthenga, imfundo, imidlalo, iinkonzo zonke zisebenzisa i-Pi.",
-  "ch3-p2": "Ii-DApps Eziphambili eAfrika:",
-  "ch3-list": "<li>I-Pi Chain Mall (PCM) - Indawo yokuthenga enkulu ye-Pi</li><li>I-WorkforcePool - Imisebenzi YeePioneers</li><li>I-CareForPi - Inkxaso yezempilo</li><li>I-Chigalex1 Hub - Imfundo (Le App)</li><li>kunye nokusetyenziswa okungama-100+ okungakumbi</li>",
-  "ch4": "ISAHLUKO 4 — MAPOFPI & UKUDITYANISWA KWESHISHINI",
-  "ch4-p1": "Fumana amashishini amkela i-Pi kwihlabathi jikelele kwi-mapofpi.com. Bhalisa ishishini lakho kwaye uqale ukwamkela i-Pi ngeempahla neenkonzo.",
-  "ch4-p2": "<b>Indlela Yokubhalisa Ishishini Lakho:</b> Yiya ku-mapofpi.com → Qhagamshela ne-Pi Wallet → Yongeza Ishishini → Yongeza iifoto, indawo, iimveliso → Abathengi bazakufumana! Le yindlela iAfrika eya kukhokelela ekwamkelweni kwe-Pi.",
-  "ch5": "ISAHLUKO 5 — UKUQONDA I-GCV",
-  "ch5-p1": "Ixabiso LeMvumelwano Yehlabathi (GCV) likhuthaza ukusetyenziswa kokwenyani. 1 Pi = $314,159 GCV. Eli xabiso lakhiwa ngamavulandlela asebenzisa i-Pi kurhwebo lokwenyani.",
-  "ch5-p2": "<b>Intsingiselo ye-GCV:</b> I-GCV ayiloxabiso lotshintshiselwano. Yintshukumo yokukhusela ixabiso le-Pi ngokusebenzisa i-Pi kwimvumelwano ephezulu kwi-barter yethu. Xa sisebenzisa i-Pi kwiimpahla zokwenyani kwi-GCV, sakha imfuno kunye nokusetyenziswa. Oku kuxhobisa uqoqosho lwe-Afrika.",
-  "ch6": "ISAHLUKO 6 — IMFUNDO & UPHANDO",
-  "ch6-p1": "Funda incwadi ka-Doris Yin yokudala ukusetyenziswa kunye nokukhula kwe-ecosystem. Phanda, funda, kwaye ufundise abanye — yindlela esixhobisa ngayo iAfrika.",
-  "ch6-p2": "<b>Indima Yakho NjengePhayona yaseAfrika:</b> Funda → Ziqhelise → Fundisa abantu aba-2 → Aba ba-2 bafundise abanye aba-2. Le yindlela sifikelela ngayo kwi-1 Million yamaAfrika afundileyo! Khuphela i-Whitepaper, funda, kwaye wabelane ngolwazi mihla le.",
-  "final-title": "Umyalezo Wokugqibela",
-  "final-msg": "<b>I-Afrika inethuba lokuba yenye yezona ndawo zinamandla ekusetyenzisweni okusebenzayo ngaphakathi kwe-Pi Ecosystem. Sikunye Sakha. Sikunye Sifundisa.</b>"
+  "code": "xh",
+  "label": "Xhosa - IsiXhosa ★ FULL",
+  "chapters": [
+    {
+      "title": "CHAPTER 1 - REGISTRATION - IsiXhosa",
+      "summary": "Stanford PhDs 2019, 60M Pioneers, minepi.com/chigalex1, code CHIGALEX1, real name as ID, lightning every 24h"
+    },
+    {
+      "title": "CHAPTER 2 - SECURITY CIRCLE - IsiXhosa",
+      "summary": "After 3 days, 3-5 trusted people 20% each =100% boost, referral 25% bonus"
+    },
+    {
+      "title": "CHAPTER 3 - PI WALLET & 24 WORDS - IsiXhosa",
+      "summary": "24 WORDS = BANK MASTER KEY! Write on PAPER twice, NEVER screenshot, Test Pi faucet 100"
+    },
+    {
+      "title": "CHAPTER 4 - KYC & MAINNET - IsiXhosa",
+      "summary": "KYC FREE, docs ZW green ID, bright room, 8 steps checklist"
+    },
+    {
+      "title": "CHAPTER 5 - GCV 314159 - IsiXhosa",
+      "summary": "GCV not exchange price, Doris Yin, MapOfPi chicken 0.00001 Pi"
+    },
+    {
+      "title": "CHAPTER 6 - EDUCATION & MISSION - IsiXhosa",
+      "summary": "Learn Practice Teach 2 to 1M Pioneers, 2030 farmer sells maize for Pi"
+    },
+    {
+      "title": "CHAPTER 7 - SECURITY & SCAM - IsiXhosa",
+      "summary": "5 Golden Rules: never share 24 words QR, only official apps"
+    }
+  ],
+  "invite_code": "CHIGALEX1",
+  "backend": "https://chigalex1-backend.onrender.com",
+  "gcv": "$314,159"
 }
