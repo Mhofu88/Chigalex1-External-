@@ -1,47 +1,37 @@
 {
-  "app-title": "Mbanza ya Malongi ya Ba Pionnier ya Afrika - Kuna Nge",
-  "welcome-title": "LUSAKUMUNU MU CHIGALEX1",
-  "welcome-sub": "Nzila ya Kutoma Afrika mu Pi Ecosystem",
-  "africa-day": "(Mu nkumbu ya Lumbu kia Afrika ya 25, Nsadulu yai ya Pi Pioneers yibandikidi)",
-  "memorial-title": "🕊️ Na Luzingu Lwa Zola ya Christina Muzheki Manjengwa",
-  "memorial-text": "Mbanza yai ya malongi yipesi kwa mpangi ya nkento ya nene ya luzolo <b>Christina Muzheki Manjengwa</b> yina ya vunda na <b>8 Aout 2026 ye ya zikwa na 11 Aout ke lumbu kia ba Heros ya Zimbabwe</b>.<br>Zola na nge, lutumunu na ngolo ya nge ke landa kutoma kisalu kia beto ya kutoma Afrika.<br><em style='color:#fbbf24'>Bima yonso kati na ntima ya beto. Vunda na ngolo, mpangi.</em>",
-  "quick-nav": "Ntambula ya Nswalu",
-  "intro": "MBANDU — PI NETWORK NKI?",
-  "intro-p1": "Pi Network mbongo ya digitali ye projekti ya ecosystem ya ntoto yonso yavangwa sambu crypto ifuanana ye yawu kwa bantu boso.",
-  "intro-p2": "Kutesa crypto ya ntama yina ke lomba machines ya talo, Pi Network ke pesa bantu ya pamba nzila ya kukota direkto na ba telefone na bo.",
-  "intro-p3": "Sambu na nki Pi sambu na Afrika?",
-  "intro-list": "<li>Tunga ekonomi ya digitali ya kati-kati kukonda banki</li><li>Toma bantu ya pamba na ntoto mvimba na timuna ya telefone</li><li>Mona kisalu ya kieleka na utilities na DApps</li><li>Sadisa mumbongo ya muntu na muntu ye kitisa mutolo</li><li>Stanford PhDs me tunga - Dr Nicolas Kokkalis & Dr Chengdiao Fan</li><li>Kuluta 60 Millions ya ba Pionnier na ntoto</li>",
-  "ch1": "KAPU 1 — KUSONIKA & KUBANDA",
-  "ch1-p1": "<b>Dibulu 1:</b> Kitula Pi Network - Sadila lien: <a href='https://minepi.com/chigalex1'>minepi.com/chigalex1</a>",
-  "ch1-p2": "<b>Dibulu 2:</b> Sonika na Facebook to Telefone → Kota kodi: <b>CHIGALEX1</b> → Baka 1 Pi",
-  "ch1-p3": "<b>Timuna ya Bilumbu:</b> Vutuka konso 24h bete bouton ya nsasi sambu kulanda timuna.",
-  "ch1-p4": "Mavanga ya kifuana ya kubikisa:",
-  "ch1-list2": "<li>Kusadila ve zina ya luvunu - fuanana na ID sambu na KYC</li><li>Kuvanga ve ba compte mingi - muntu mosi compte mosi</li><li>Tula alarme ya timuna konso 24h sambu kubumba vitesse</li><li>Kota na cercle ya securité na nima ya bilumbu 3 na bantu 5 ya confiance</li>",
-  "ch1-check": "Liste ya Mainnet",
-  "ch1-list": "<li>Vanga portefeuille ya Pi na lutaninu</li><li>Manisa 2FA</li><li>Manisa KYC</li><li>Kubama sambu na Mainnet</li>",
-  "security-msg": "⚠️ Lutaninu ya portefeuille: Kukabula ve 24 maloba ma nge! Ekipi ya Pi Core kelenda yu sadiata ve!",
-  "ch2": "KAPU 2 — MALONGI YA PORTEFEUILLE PI",
-  "ch2-p1": "Portefeuille ya Pi ya nge ke banki ya nge na Pi Ecosystem. Yina kele na ba Pi na nge na blockchain na lutaninu.",
-  "ch2-p2": "<b>Mutindu ya kuvanga:</b> Zibula Pi Browser → Wallet → Vanga Wallet → KOPIA 24 maloba ma nge → Bumba offline na bisika 2 ya lutaninu.",
-  "ch2-p3": "<b>Kubaka Pi:</b> Kabula adrese ya nge ya publiki (yantika na G...). <b>Kutindika Pi:</b> Lemeka adrese ya muntu ya ke bakula, kota mbongo, konfirmé.",
-  "ch2-p4": "Minsiku ya lutaninu ya portefeuille:",
-  "ch2-list": "<li>Sonika passphrase na papier, ve capture</li><li>Bumba na bisika 2 ya lutaninu ya kuswaswana (ve telefone kaka)</li><li>Meka na 1 Pi na ntwala ya kutindika mbongo ya nene</li><li>Tala 4 lettres ya ntete ye 4 ya nsuka ya adrese konso ntangu</li>",
-  "ch2a": "KAPU 2A — FORMATION YA PRATIQUE",
-  "ch2a-p1": "Pratique: Banda na mbongo ya fioti ya test (1 Pi). Verifia 4 lettres ya ntete ye 4 ya nsuka ya adrese kefuana. Kukotisa ve passphrase na site mosi ve!",
-  "ch2a-p2": "<b>Exercice ya direct:</b> Na formation yai, beto ke sala demo ya direct ya kutindika 1 Pi na pionnier ya nkaka sambu kutunga confiance. Bambuka moyo: Transaction ya Blockchain kele irréversible!",
-  "ch3": "KAPU 3 — KUBAKULA PI ECOSYSTEM",
-  "ch3-p1": "Pi Browser yina bonso Google Play Store sambu na Pi. DApps kele ba application ya kukabwana sambu na kisalu ya kieleka — kusumba, malongi, jeux, bisalu na Pi.",
-  "ch3-p2": "Ba DApps ya mfunu na Afrika:",
-  "ch3-list": "<li>Pi Chain Mall (PCM) - Marché ya Pi</li><li>WorkforcePool - Bisalu sambu na ba Pionnier</li><li>CareForPi - Sadisa ya santé</li><li>Chigalex1 Hub - Malongi (App yai)</li><li>Ye 100+ ya nkaka ya utilités</li>",
-  "ch4": "KAPU 4 — MAPOFPI & KINTWADI YA MUMBONGO",
-  "ch4-p1": "Sosa ba business yina ke ndimaka Pi na ntoto mvimba na mapofpi.com. Sonika business ya nge mosi ye banda kundima Pi sambu na bima na bisalu.",
-  "ch4-p2": "<b>Mutindu ya kusonika business ya nge:</b> Kwenda mapofpi.com → Kanga na Pi Wallet → Yika Business → Yika photo, bisika, bima → Ba client ke kuzwa nge! Mutindu yina Afrika ke longisa Pi.",
-  "ch5": "KAPU 5 — KUBAKULA GCV",
-  "ch5-p1": "Valeur ya Consensus Mondial (GCV) ke encourager kisalu ya kieleka. 1 Pi = $314,159 GCV. Valeur yai ke tungama na ba pionnier yina ke sadila Pi na mumbongo ya kieleka.",
-  "ch5-p2": "<b>Nsinu ya GCV:</b> GCV kele ve prix ya échange. Kele mouvement ya kubumba valeur ya Pi na kusadila Pi na consensus ya ngolo na troc ya beto. Na ntangu beto ke sadila Pi sambu na bima ya kieleka na GCV, beto ke tunga demande ye utilité. Yai kele kutoma ekonomi sambu na Afrika.",
-  "ch6": "KAPU 6 — MALONGI & RECHERCHE",
-  "ch6-p1": "Longoka manuel ya Doris Yin sambu na kuvanga kisalu ye kukula ya ecosystem. Sosa, longoka, longisa bantu ya nkaka — mutindu yina beto ke tomaka Afrika.",
-  "ch6-p2": "<b>Kisalu ya nge bonso Pionnier ya Afrika:</b> Longoka → Sala → Longisa bantu 2 → Bawu 2 balongisa 2 ya nkaka. Mutindu yina beto ke kuma na 1 Million ya ba Afrika ya malongi! Kitula Whitepaper, tanga, ye kabula mayele konso lumbu.",
-  "final-title": "Nsangu ya Nsuka",
-  "final-msg": "<b>Afrika ke na chance ya kuvuanda yimosi ya ba region ya ngolo na kisalu ya pratique kati na Pi Ecosystem. Kumosi beto ke tunga. Kumosi beto ke longa.</b>"
+  "code": "kg",
+  "label": "Kongo - Kikongo ★ FULL",
+  "chapters": [
+    {
+      "title": "CHAPTER 1 - REGISTRATION - Kikongo",
+      "summary": "Stanford PhDs 2019, 60M Pioneers, minepi.com/chigalex1, code CHIGALEX1, real name as ID, lightning every 24h"
+    },
+    {
+      "title": "CHAPTER 2 - SECURITY CIRCLE - Kikongo",
+      "summary": "After 3 days, 3-5 trusted people 20% each =100% boost, referral 25% bonus"
+    },
+    {
+      "title": "CHAPTER 3 - PI WALLET & 24 WORDS - Kikongo",
+      "summary": "24 WORDS = BANK MASTER KEY! Write on PAPER twice, NEVER screenshot, Test Pi faucet 100"
+    },
+    {
+      "title": "CHAPTER 4 - KYC & MAINNET - Kikongo",
+      "summary": "KYC FREE, docs ZW green ID, bright room, 8 steps checklist"
+    },
+    {
+      "title": "CHAPTER 5 - GCV 314159 - Kikongo",
+      "summary": "GCV not exchange price, Doris Yin, MapOfPi chicken 0.00001 Pi"
+    },
+    {
+      "title": "CHAPTER 6 - EDUCATION & MISSION - Kikongo",
+      "summary": "Learn Practice Teach 2 to 1M Pioneers, 2030 farmer sells maize for Pi"
+    },
+    {
+      "title": "CHAPTER 7 - SECURITY & SCAM - Kikongo",
+      "summary": "5 Golden Rules: never share 24 words QR, only official apps"
+    }
+  ],
+  "invite_code": "CHIGALEX1",
+  "backend": "https://chigalex1-backend.onrender.com",
+  "gcv": "$314,159"
 }
