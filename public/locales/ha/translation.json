@@ -1,47 +1,37 @@
 {
-  "app-title": "Cibiyar Ilimi ta Africa Pioneers - Waje",
-  "welcome-title": "BARKA DA ZUWA CHIGALEX1",
-  "welcome-sub": "Ƙofar Ƙarfafa Africa Ta Hanyar Pi Ecosystem",
-  "africa-day": "(Don murnar Ranar Africa ta 25, wannan Aikace-aikacen Horar da Pi Pioneers an ƙaddamar da shi)",
-  "memorial-title": "🕊️ Don Tunawa da Ƙaunatacciya Christina Muzheki Manjengwa",
-  "memorial-text": "Wannan Cibiyar Ilimi an sadaukar da ita ga ƴar uwata babba ƙaunatacciya <b>Christina Muzheki Manjengwa</b> wacce ta huta a ranar <b>8 ga Agusta 2026 kuma aka binne ta a ranar 11 ga Agusta kasancewar Ranar Jaruman Zimbabwe</b>.<br>Ƙaunarki, jagorancinki da ƙarfinki na ci gaba da ƙarfafa manufarmu ta ƙarfafa Africa.<br><em style='color:#fbbf24'>Har abada a cikin zukatanmu. Huta cikin salama, 'Yar uwa.</em>",
-  "quick-nav": "Kewayawa Mai Sauri",
-  "intro": "GABATARWA — MENENE PI NETWORK?",
-  "intro-p1": "Pi Network kuɗi ne na dijital da aikin ecosystem na duniya wanda aka tsara don sanya cryptocurrency ya zama mai sauƙi da amfani ga kowa.",
-  "intro-p2": "Ba kamar cryptocurrencies na gargajiya waɗanda ke buƙatar injinan hakar ma'adinai masu tsada ba, Pi Network yana bawa talakawa damar shiga kai tsaye daga wayoyinsu.",
-  "intro-p3": "Me yasa Pi na Africa?",
-  "intro-list": "<li>Gina tattalin arzikin dijital mai haɗa kowa ba tare da bankuna ba</li><li>Ƙarfafa talakawa a duniya ta hanyar hakar ma'adinai ta waya</li><li>Ƙara amfani na gaske ta hanyar utilities da DApps</li><li>Taimaka kasuwanci tsakanin mutum da mutum da rage kuɗaɗe</li><li>Stanford PhDs suka ƙirƙira - Dr. Nicolas Kokkalis & Dr. Chengdiao Fan</li><li>Fiye da Pioneers Miliyan 60 a duniya</li>",
-  "ch1": "BABI NA 1 — RAJISTA & FARAWA",
-  "ch1-p1": "<b>Mataki 1:</b> Sauke Pi Network - Yi amfani da hanyar: <a href='https://minepi.com/chigalex1'>minepi.com/chigalex1</a>",
-  "ch1-p2": "<b>Mataki 2:</b> Yi rajista da Facebook ko Waya → Shigar da lambar: <b>CHIGALEX1</b> → Samu lada 1 Pi",
-  "ch1-p3": "<b>Hakar Ma'adinai na Kullum:</b> Koma kowane 24h kuma danna maɓallin walƙiya don ci gaba da hakar ma'adinai.",
-  "ch1-p4": "Kuskure na gama-gari don Gujewa:",
-  "ch1-list2": "<li>Kada kayi amfani da sunan ƙarya - dole ne ya dace da ID don KYC</li><li>Kada ka ƙirƙiri asusu da yawa - mutum ɗaya asusu ɗaya</li><li>Sanya ƙararrawa don hakar ma'adinai kowane 24h don kiyaye ƙimar</li><li>Shiga da'irar tsaro bayan kwanaki 3 tare da mutane 5 amintattu</li>",
-  "ch1-check": "Jerin Dubawa na Mainnet",
-  "ch1-list": "<li>Ƙirƙiri walat ɗin Pi cikin aminci</li><li>Kammala 2FA</li><li>Kammala KYC</li><li>Shirya don ƙaura Mainnet</li>",
-  "security-msg": "⚠️ Tsaron walat: KADA KA taɓa raba kalmomin ɓoye 24 naka! Ƙungiyar Pi Core BAZA taɓa tambayarka ba!",
-  "ch2": "BABI NA 2 — ILIMIN WALAT ƊIN PI",
-  "ch2-p1": "Walat ɗin Pi naka bankin ka ne a Pi Ecosystem. Yana riƙe da tsabar kuɗin Pi naka cikin aminci a blockchain.",
-  "ch2-p2": "<b>Yadda ake ƙirƙira:</b> Buɗe Pi Browser → Wallet → Ƙirƙiri Wallet → KOFA kalmomi 24 naka → Ajiye offline a wurare 2 masu aminci.",
-  "ch2-p3": "<b>Karɓar Pi:</b> Raba adireshin jama'a (yana farawa da G...). <b>Aika Pi:</b> Manna adireshin mai karɓa, shigar da adadi, tabbatar.",
-  "ch2-p4": "Dokokin Tsaron Walat:",
-  "ch2-list": "<li>Rubuta passphrase akan takarda, ba screenshot ba</li><li>Ajiye a wurare 2 daban-daban masu aminci (ba waya kaɗai ba)</li><li>Gwada da 1 Pi kafin aika adadi mai yawa</li><li>Duba haruffa 4 na farko da 4 na ƙarshe na adireshi koyaushe</li>",
-  "ch2a": "BABI NA 2A — HORAR DA WALAT MAI AIKI",
-  "ch2a-p1": "Mai aiki: Fara da ƙaramin adadi na gwaji (1 Pi). Tabbatar haruffa 4 na farko da 4 na ƙarshe na adireshi sun dace. Kada ka taɓa liƙa passphrase akan kowane gidan yanar gizo!",
-  "ch2a-p2": "<b>Motsa Jiki Kai Tsaye:</b> A cikin wannan horon, za mu yi demo kai tsaye na aika 1 Pi zuwa wani pioneer don gina kwarin gwiwa. Ka tuna: Ma'amalar blockchain ba za a iya juyawa ba!",
-  "ch3": "BABI NA 3 — FAHIMTAR PI ECOSYSTEM",
-  "ch3-p1": "Pi Browser kamar Google Play Store ne na Pi. DApps aikace-aikace ne da aka rarraba don amfani na gaske — siyayya, ilimi, wasanni, ayyuka duka suna amfani da Pi.",
-  "ch3-p2": "Muhimman DApps a Africa:",
-  "ch3-list": "<li>Pi Chain Mall (PCM) - Babban kasuwar Pi</li><li>WorkforcePool - Ayyuka ga Pioneers</li><li>CareForPi - Tallafin kiwon lafiya</li><li>Chigalex1 Hub - Ilimi (Wannan App)</li><li>Da 100+ ƙarin kayan aiki</li>",
-  "ch4": "BABI NA 4 — MAPOFPI & HAƊIN KASUWANCI",
-  "ch4-p1": "Gano kasuwancin da ke karɓar Pi a duniya akan mapofpi.com. Yi rajistar kasuwancinka kanka kuma fara karɓar Pi don kayayyaki da ayyuka.",
-  "ch4-p2": "<b>Yadda ake Rajistar Kasuwancinka:</b> Je zuwa mapofpi.com → Haɗa da Pi Wallet → Ƙara Kasuwanci → Ƙara hotuna, wuri, samfura → Abokan ciniki za su same ka! Wannan shine yadda Africa za ta jagoranci karɓar Pi.",
-  "ch5": "BABI NA 5 — FAHIMTAR GCV",
-  "ch5-p1": "Ƙimar Yarjejeniya ta Duniya (GCV) tana ƙarfafa amfani na gaske. 1 Pi = $314,159 GCV. Pioneers masu amfani da Pi a kasuwanci na gaske ne suka gina wannan ƙimar.",
-  "ch5-p2": "<b>Ma'anar GCV:</b> GCV ba farashin musayar bane. Yunkuri ne na kare ƙimar Pi ta hanyar amfani da Pi a babban yarjejeniya a cikin cinikayyarmu. Lokacin da muke amfani da Pi don kayayyaki na gaske a GCV, muna ƙirƙirar buƙata da amfani. Wannan ƙarfafa tattalin arziki ne ga Africa.",
-  "ch6": "BABI NA 6 — ILIMI & BINCIKE",
-  "ch6-p1": "Yi nazarin littafin Doris Yin don ƙirƙirar amfani da haɓakar ecosystem. Bincika, koya, kuma koya wa wasu — wannan shine yadda muke ƙarfafa Africa.",
-  "ch6-p2": "<b>Rawarka a matsayin Africa Pioneer:</b> Koya → Yi aiki → Koya wa mutane 2 → Waɗannan 2 su koya wa 2. Wannan shine yadda zamu kai ga Afirka Miliyan 1 masu ilimi! Sauke Whitepaper, karanta, kuma raba ilimi kullum.",
-  "final-title": "Saƙo na Ƙarshe",
-  "final-msg": "<b>Africa tana da damar zama ɗaya daga cikin yankuna mafi ƙarfi a amfani mai amfani a cikin Pi Ecosystem. Tare Muna Ginawa. Tare Muna Koyarwa.</b>"
+  "code": "ha",
+  "label": "Hausa ★ FULL",
+  "chapters": [
+    {
+      "title": "CHAPTER 1 - REGISTRATION - Hausa",
+      "summary": "Stanford PhDs 2019, 60M Pioneers, minepi.com/chigalex1, code CHIGALEX1, real name as ID, lightning every 24h"
+    },
+    {
+      "title": "CHAPTER 2 - SECURITY CIRCLE - Hausa",
+      "summary": "After 3 days, 3-5 trusted people 20% each =100% boost, referral 25% bonus"
+    },
+    {
+      "title": "CHAPTER 3 - PI WALLET & 24 WORDS - Hausa",
+      "summary": "24 WORDS = BANK MASTER KEY! Write on PAPER twice, NEVER screenshot, Test Pi faucet 100"
+    },
+    {
+      "title": "CHAPTER 4 - KYC & MAINNET - Hausa",
+      "summary": "KYC FREE, docs ZW green ID, bright room, 8 steps checklist"
+    },
+    {
+      "title": "CHAPTER 5 - GCV 314159 - Hausa",
+      "summary": "GCV not exchange price, Doris Yin, MapOfPi chicken 0.00001 Pi"
+    },
+    {
+      "title": "CHAPTER 6 - EDUCATION & MISSION - Hausa",
+      "summary": "Learn Practice Teach 2 to 1M Pioneers, 2030 farmer sells maize for Pi"
+    },
+    {
+      "title": "CHAPTER 7 - SECURITY & SCAM - Hausa",
+      "summary": "5 Golden Rules: never share 24 words QR, only official apps"
+    }
+  ],
+  "invite_code": "CHIGALEX1",
+  "backend": "https://chigalex1-backend.onrender.com",
+  "gcv": "$314,159"
 }
