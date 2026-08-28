@@ -1,47 +1,37 @@
 {
-  "app-title": "Africa Pioneers Thuto Hub - Kwa Ntle",
-  "welcome-title": "RE A GO AMOGELA MO CHIGALEX1",
-  "welcome-sub": "Kgoro ya go Nonotsha Afrika ka Pi Ecosystem",
-  "africa-day": "(Mo ketekong ya Letsatsi la Afrika la bo-25, Porokeramo eno ya Katiso ya Pi Pioneers e simolotswe)",
-  "memorial-title": "🕊️ Mo Segopotso sa Lorato sa ga Christina Muzheki Manjengwa",
-  "memorial-text": "Thuto Hub e, e neetswe kgaitsadiake yo mogolo yo o rategang <b>Christina Muzheki Manjengwa</b> yo o robetseng ka <b>8 Phatwe 2026 mme a bolokwa ka 11 Phatwe e le Boikhutso jwa Bahale ba Zimbabwe</b>.<br>Lorato lwa gago, kaelo le nonofo ya gago di tswelela go rotloetsa maikaelelo a rona a go nonotsha Afrika.<br><em style='color:#fbbf24'>Ka bosakhutleng mo dipelong tsa rona. Robala ka Nonofo, Kgaitsadi.</em>",
-  "quick-nav": "Go Tsamaya ka Bonako",
-  "intro": "MATSENO — PI NETWORK KE ENG?",
-  "intro-p1": "Pi Network ke madi a dijithale le porojeke ya ecosystem ya lefatshe e diretsweng go dira gore cryptocurrency e bonale e bile e le mosola mo mongwe le mongwe.",
-  "intro-p2": "Go farologana le di-cryptocurrency tsa tlwaelo tse di tlhokang metšhine e e turu ya meepo, Pi Network e letla batho ba tlwaelo go tsaya karolo ka tlhamalalo go tswa mo megaleng ya bone.",
-  "intro-p3": "Ke eng Pi ya Afrika?",
-  "intro-list": "<li>Aga ikonomi ya dijithale e akaretsang mongwe le mongwe kwa ntle ga dibanka</li><li>Nonotsha batho ba tlwaelo mo lefatsheng ka bophara ka meepo ya mogala</li><li>Oketsa tiriso ya nnete ka ditiriso le DApps</li><li>Tshegetsa kgwebo ya motho le motho le go fokotsa dituelo</li><li>E dirilwe ke Stanford PhDs - Dr Nicolas Kokkalis & Dr Chengdiao Fan</li><li>Bo-pioneere ba fetang Dimilione di 60 mo lefatsheng ka bophara</li>",
-  "ch1": "KGAOLO YA 1 — IKWADISE & GO SIMOLOLA",
-  "ch1-p1": "<b>Kgato ya 1:</b> Dounolouta Pi Network - Dirisa kgokagano: <a href='https://minepi.com/chigalex1'>minepi.com/chigalex1</a>",
-  "ch1-p2": "<b>Kgato ya 2:</b> Ikwadise ka Facebook kgotsa Foune → Tsenya khoutu: <b>CHIGALEX1</b> → Bona tuelo ya 1 Pi",
-  "ch1-p3": "<b>Meepo ya Letsatsi le Letsatsi:</b> Boela morago dihora di le 24 mme o tobetse konopo ya legadima go tswelela ka meepo.",
-  "ch1-p4": "Diphoso tse di Tlwaelegileng tse di Tshwanetseng go Thibelwa:",
-  "ch1-list2": "<li>O se dirise leina la maaka - le tshwanetse go tshwana le ID ya KYC</li><li>O se tlhame di-account tse dintsi - motho a le mongwe account e le nngwe</li><li>Beha alamo ya meepo dihora di le 24 go boloka sekgele</li><li>Tsena mo sedikeng sa tshireletso morago ga malatsi a 3 le batho ba 5 ba o ba ikanyang</li>",
-  "ch1-check": "Lenaane la Mainnet",
-  "ch1-list": "<li>Dira Pi wallet ka pabalesego</li><li>Wetsa 2FA</li><li>Wetsa KYC</li><li>Ipaakanyetse go fuduga ga Mainnet</li>",
-  "security-msg": "⚠️ Pabalesego ya wallet: O SE KE WA abalana mafoko a gago a 24 a passphrase! Setlhopha sa Pi Core GA SE NA go botsa!",
-  "ch2": "KGAOLO YA 2 — THUTO YA WALLET YA PI",
-  "ch2-p1": "Wallet ya gago ya Pi ke banka ya gago mo Pi Ecosystem. E tshwara madi a gago a Pi ka pabalesego mo blockchain.",
-  "ch2-p2": "<b>Mokgwa wa go dira:</b> Bula Pi Browser → Wallet → Dira Wallet → KOPIA mafoko a gago a 24 → Boloka offline mo mafelong a 2 a a babalesegileng.",
-  "ch2-p3": "<b>Go amogela Pi:</b> Abaalana aterese ya gago ya setšhaba (e simolola ka G...). <b>Go romela Pi:</b> Beha aterese ya moamogedi, tsenya palo, netefatsa.",
-  "ch2-p4": "Melao ya Pabalesego ya Wallet:",
-  "ch2-list": "<li>Kwala passphrase mo pampiring, e seng setshwantsho</li><li>Boloka mo mafelong a 2 a a babalesegileng a a farologaneng (e seng foune fela)</li><li>Leka ka 1 Pi pele o romela madi a mantsi</li><li>Leba ditlhaka tse 4 tsa ntlha le tse 4 tsa bofelo tsa aterese ka metlha</li>",
-  "ch2a": "KGAOLO YA 2A — KATISO E MOSOLA",
-  "ch2a-p1": "E e mosola: Simolola ka madi a mannye a teko (1 Pi). Netefatsa ditlhaka tse 4 tsa ntlha le tse 4 tsa bofelo tsa aterese di a tshwana. O se ka wa beya passphrase ya gago mo webosaeteng epe!",
-  "ch2a-p2": "<b>Boitshwaro jo bo Tshelang:</b> Mo katisong eno, re tla dira pontsho e tshelang ya go romela 1 Pi kwa pioneer yo mongwe go aga boikanyo. Gakologelwa: Ditirisano tsa Blockchain ga di busetswe morago!",
-  "ch3": "KGAOLO YA 3 — GO TLHALOGANYA PI ECOSYSTEM",
-  "ch3-p1": "Pi Browser e tshwana le Google Play Store ya Pi. DApps ke ditiriso tse di kgaoganeng tsa tiriso ya nnete — go reka, thuto, metshameko, ditirelo tsotlhe di dirisa Pi.",
-  "ch3-p2": "DApps tse di Botlhokwa mo Afrika:",
-  "ch3-list": "<li>Pi Chain Mall (PCM) - Mabenkele a magolo a Pi</li><li>WorkforcePool - Ditiro tsa Bo-pioneere</li><li>CareForPi - Tshegetso ya boitekanelo</li><li>Chigalex1 Hub - Thuto (App eno)</li><li>Le ditiriso tse dingwe tse 100+</li>",
-  "ch4": "KGAOLO YA 4 — MAPOFPI & GO KOPANYA KGOEBO",
-  "ch4-p1": "Bona dikgwebo tse di amogelang Pi mo lefatsheng ka bophara mo mapofpi.com. Kwadiša kgwebo ya gago ka bo wena mme o simolole go amogela Pi bakeng sa dithoto le ditirelo.",
-  "ch4-p2": "<b>Mokgwa wa go Kwadiša Kgwebo ya Gago:</b> Ya kwa mapofpi.com → Golagana le Pi Wallet → Tsenya Kgwebo → Tsenya ditshwantsho, lefelo, ditlhagiswa → Bareki ba tla go bona! Ke ka moo Afrika e tla etelelang pele mo kamogelong ya Pi.",
-  "ch5": "KGAOLO YA 5 — GO TLHALOGANYA GCV",
-  "ch5-p1": "Boleng jwa Tumalano ya Lefatshe (GCV) bo rotloetsa tiriso ya nnete. 1 Pi = $314,159 GCV. Boleng jo bo agilwe ke bapioneere ba ba dirisang Pi mo kgwebong ya nnete.",
-  "ch5-p2": "<b>Bokao jwa GCV:</b> GCV ga se tlhwatlhwa ya phapanyetsano. Ke motsamao wa go sireletsa boleng jwa Pi ka go dirisa Pi mo tumalanong e e kwa godimo mo thekisetsanong ya rona. Fa re dirisa Pi bakeng sa dithoto tsa nnete mo GCV, re bopa tlhoke go le tiriso. Se ke nonotsha ikonomi ya Afrika.",
-  "ch6": "KGAOLO YA 6 — THUTO & PATLISISO",
-  "ch6-p1": "Ithute bukana ya Doris Yin ya go tlhama tiriso le kgolo ya ecosystem. Dira patlisiso, ithute, mme o rute ba bangwe — ke ka moo re nonotshang Afrika ka teng.",
-  "ch6-p2": "<b>Karolo ya Gago jaaka Pioneer ya Afrika:</b> Ithute → Itlwaetse → Ruta batho ba 2 → Bao ba 2 ba ruta ba bangwe ba 2. Ke ka moo re fitlhelelang 1 Milione ya Maafrika a a rutegileng! Dounolouta Whitepaper, bala, mme o abalane kitso letsatsi le letsatsi.",
-  "final-title": "Molaetsa wa Bofelo",
-  "final-msg": "<b>Afrika e na le tshono ya go nna nngwe ya dikgaolo tse di nonofileng thata mo tirisong e e mosola mo Pi Ecosystem. Mmogo Re Aga. Mmogo Re Ruta.</b>"
+  "code": "tn",
+  "label": "Tswana - Setswana ★ FULL",
+  "chapters": [
+    {
+      "title": "CHAPTER 1 - REGISTRATION - Setswana",
+      "summary": "Stanford PhDs 2019, 60M Pioneers, minepi.com/chigalex1, code CHIGALEX1, real name as ID, lightning every 24h"
+    },
+    {
+      "title": "CHAPTER 2 - SECURITY CIRCLE - Setswana",
+      "summary": "After 3 days, 3-5 trusted people 20% each =100% boost, referral 25% bonus"
+    },
+    {
+      "title": "CHAPTER 3 - PI WALLET & 24 WORDS - Setswana",
+      "summary": "24 WORDS = BANK MASTER KEY! Write on PAPER twice, NEVER screenshot, Test Pi faucet 100"
+    },
+    {
+      "title": "CHAPTER 4 - KYC & MAINNET - Setswana",
+      "summary": "KYC FREE, docs ZW green ID, bright room, 8 steps checklist"
+    },
+    {
+      "title": "CHAPTER 5 - GCV 314159 - Setswana",
+      "summary": "GCV not exchange price, Doris Yin, MapOfPi chicken 0.00001 Pi"
+    },
+    {
+      "title": "CHAPTER 6 - EDUCATION & MISSION - Setswana",
+      "summary": "Learn Practice Teach 2 to 1M Pioneers, 2030 farmer sells maize for Pi"
+    },
+    {
+      "title": "CHAPTER 7 - SECURITY & SCAM - Setswana",
+      "summary": "5 Golden Rules: never share 24 words QR, only official apps"
+    }
+  ],
+  "invite_code": "CHIGALEX1",
+  "backend": "https://chigalex1-backend.onrender.com",
+  "gcv": "$314,159"
 }
