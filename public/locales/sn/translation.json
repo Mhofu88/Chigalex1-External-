@@ -1,47 +1,37 @@
 {
-  "app-title": "Africa Pioneers Dzidzo Hub - Kunze",
-  "welcome-title": "TIKUGAMUCHIRA KU CHIGALEX1",
-  "welcome-sub": "Gedhi Rekusimudzira Africa Kuburikidza nePi Ecosystem",
-  "africa-day": "(Mukupemberera Zuva reAfrica re25, Chirongwa ichi chePi Pioneers Training chatangwa)",
-  "memorial-title": "🕊️ Mukurangarira Rudo rwaChristina Muzheki Manjengwa",
-  "memorial-text": "Iyi Dzidzo Hub yakatsaurirwa hanzvadzi yangu huru inodiwa <b>Christina Muzheki Manjengwa</b> akazorora pa <b>8 Nyamavhuvhu 2026 tikamuchengetedza musi wa 11 Nyamavhuvhu 2026 rinova zuva reku zorora reku rangarira varwi ve rusununguko mu Zimbabwe</b>.<br>Rudo rwako, hutungamiri nesimba zvinoramba zvichikurudzira basa redu rekusimudzira Africa.<br><em style='color:#fbbf24'>Nekusingaperi mumoyo medu. Zorora murugare, Hanzvadzi.</em>",
-  "quick-nav": "Kufamba Nekukurumidza",
-  "intro": "NHANGANYAYA — CHII CHINONZI PI NETWORK?",
-  "intro-p1": "Pi Network imari yedhijitari uye chirongwa chepasi rose chakagadzirirwa kuita kuti cryptocurrency iwanikwe uye ibatsire munhu wese.",
-  "intro-p2": "Kusiyana nemari dzemadhijitari dzechinyakare dzinoda michina inodhura yemigodhi, Pi Network inobvumira vanhuwo zvavo kutora chikamu zvakananga kubva kumafoni avo.",
-  "intro-p3": "Sei Pi yeAfrica?",
-  "intro-list": "<li>Vaka hupfumi hwedhijitari hunosanganisira munhu wese pasina mabhanga</li><li>Simudzira vanhuwo zvavo pasi rose nekuchera panhare</li><li>Wedzera kushandiswa chaiko kuburikidza nezvishandiso neDApps</li><li>Tsigira kutengeserana kwemunhu nemunhu uye kuderedza mari</li><li>Yakagadzirwa naStanford PhDs - Dr. Nicolas Kokkalis na Dr. Chengdiao Fan</li><li>Vanopfuura Mamirioni makumi matanhatu eMapiyona pasi rose</li>",
-  "ch1": "CHITSAUKO 1 — KUNYORERA & KUTANGA",
-  "ch1-p1": "<b>Danho 1:</b> Dhawunirodha Pi Network - Shandisa chinongedzo: <a href='https://minepi.com/chigalex1'>minepi.com/chigalex1</a>",
-  "ch1-p2": "<b>Danho 2:</b> Nyoresa neFacebook kana Foni → Isa kodhi: <b>CHIGALEX1</b> → Wana mubairo we1 Pi",
-  "ch1-p3": "<b>Kuchera Kwemazuva Ose:</b> Dzoka maawa makumi maviri nemana oga oga wobaya bhatani remheni kuti urambe uchichera.",
-  "ch1-p4": "Zvikanganiso Zvakajairika Zvekudzivisa:",
-  "ch1-list2": "<li>Usashandise zita remanyepo - rinofanira kuenderana neID yeKYC</li><li>Usagadzira maakaundi akawanda - munhu mumwe akaundi imwe</li><li>Isa alarm yekuchera maawa 24 oga oga kuti uchengete mwero</li><li>Joinha denderedzwa rekuchengetedza mushure memazuva matatu nevanhu 5 vaunovimba navo</li>",
-  "ch1-check": "Rondedzero yeMainnet",
-  "ch1-list": "<li>Gadzira chikwama chePi zvakachengeteka</li><li>Pedzisa 2FA</li><li>Pedzisa KYC</li><li>Gadzirira kutama kweMainnet</li>",
-  "security-msg": "⚠️ Kuchengetedzeka kwechikwama: Usambofa wakagovana mazwi ako makumi maviri nemana epassphrase! Chikwata chePi Core hachizombokumbira!",
-  "ch2": "CHITSAUKO 2 — DZIDZO YECHIKWAMA CHEPI",
-  "ch2-p1": "Chikwama chako chePi ibhangi rako muPi Ecosystem. Inobata mari dzako dzePi zvakachengeteka pa blockchain.",
-  "ch2-p2": "<b>Maitiro ekugadzira:</b> Vhura Pi Browser → Wallet → Gadzira Wallet → KOPIYA mazwi ako makumi maviri nemana → Chengeta pasina internet munzvimbo mbiri dzakachengeteka.",
-  "ch2-p3": "<b>Kugamuchira Pi:</b> Govera kero yako yeruzhinji (inotanga na G...). <b>Kutumira Pi:</b> Namatira kero yeari kugamuchira, isa huwandu, simbisa.",
-  "ch2-p4": "Mitemo Yekuchengetedza Chikwama:",
-  "ch2-list": "<li>Nyora passphrase pabepa, kwete screenshot</li><li>Chengeta munzvimbo mbiri dzakasiyana dzakachengeteka (kwete foni chete)</li><li>Edza ne1 Pi usati watumira huwandu hukuru</li><li>Tarisa mavara mana ekutanga ne mana ekupedzisira ekero nguva dzose</li>",
-  "ch2a": "CHITSAUKO 2A — KUROVEDZWA KWEMABHUKU KWAKO",
-  "ch2a-p1": "Zvinobatsira: Tanga nehuwandu hudiki hwekuyedza (1 Pi). Simbisa kuti mavara mana ekutanga ne mana ekupedzisira ekero anofananidzana. Usambofa wakaisa passphrase yako pane chero webhusaiti!",
-  "ch2a-p2": "<b>Chiitiko Chepamoyo:</b> Mukudzidziswa uku, tichaita kuratidzira kwemoyo kwekutumira 1 Pi kune mumwe piyona kuvaka chivimbo. Rangarira: Kutengeserana kweBlockchain hakuchinjiki!",
-  "ch3": "CHITSAUKO 3 — KUNZWISISA PI ECOSYSTEM",
-  "ch3-p1": "Pi Browser yakaita seGoogle Play Store yePi. DApps zvikumbwa zvakagoverwa zvekushandisa chaiko — kutenga, dzidzo, mitambo, masevhisi ese achishandisa Pi.",
-  "ch3-p2": "MaDApps Akakosha muAfrica:",
-  "ch3-list": "<li>Pi Chain Mall (PCM) - Chitoro chikuru chePi</li><li>WorkforcePool - Mabasa eMapiyona</li><li>CareForPi - Rutsigiro rwehutano</li><li>Chigalex1 Hub - Dzidzo (Iyi App)</li><li>Uye anopfuura 100 mamwe mashandisirwo</li>",
-  "ch4": "CHITSAUKO 4 — MAPOFPI & KUBATANIDZWA KWEMABHIZIMISI",
-  "ch4-p1": "Tsvaga mabhizinesi anogamuchira Pi pasirese pa mapofpi.com. Nyoresa bhizinesi rako pachako wotanga kugamuchira Pi yezvinhu nemasevhisi.",
-  "ch4-p2": "<b>Maitiro Ekunyoresa Bhizinesi Rako:</b> Enda kumapofpi.com → Batanidza nePi Wallet → Wedzera Bhizinesi → Wedzera mapikicha, nzvimbo, zvigadzirwa → Vatengi vachakuwana! Aya ndiwo maitiro Africa ichatungamira mukugamuchirwa kwePi.",
-  "ch5": "CHITSAUKO 5 — KUNZWISISA GCV",
-  "ch5-p1": "Global Consensus Value (GCV) inokurudzira kushandiswa chaiko. 1 Pi = $314,159 GCV. Kukosha uku kunovakwa nemapiyona anoshandisa Pi mukutengeserana chaiko, kwete nemutengo wekuchinjana.",
-  "ch5-p2": "<b>Zvinoreva GCV:</b> GCV hausi mutengo wekuchinjana. Isangano rekuchengetedza kukosha kwePi nekushandisa Pi pamusoro-soro mukubvumirana kwedu pachedu. Patinoshandisa Pi yezvinhu chaizvo paGCV, tinogadzira kudiwa nekushandiswa. Uku ndiko kusimudzira hupfumi hweAfrica.",
-  "ch6": "CHITSAUKO 6 — DZIDZO & KUTSVAGURUDZA",
-  "ch6-p1": "Dzidza bhuku raDoris Yin rekugadzira mashandisirwo uye kukura kweecosystem. Tsvagurudza, dzidza, uye dzidzisa vamwe — aya ndiwo maitiro atinosimudzira Africa.",
-  "ch6-p2": "<b>Basa Rako seAfrica Pioneer:</b> Dzidza → Dzidzira → Dzidzisa vanhu 2 → Vaviri ivavo vanodzidzisa 2 vamwe. Aya ndiwo maitiro atinosvika paMamirioni 1 evaAfrica vakadzidza! Dhawunirodha Whitepaper, verenga, uye govera ruzivo mazuva ose.",
-  "final-title": "Mharidzo Yekupedzisira",
-  "final-msg": "<b>Africa ine mukana wekuva imwe yematunhu akasimba mukushandisa kunoshanda mukati mePi Ecosystem. Pamwe Tinovaka. Pamwe Tinodzidzisa. Pamwe Tinosimudzira Africa Kuburikidza nePi.</b>"
+  "code": "sn",
+  "label": "Shona - ChiShona ★ FULL",
+  "chapters": [
+    {
+      "title": "CHAPTER 1 - REGISTRATION - ChiShona",
+      "summary": "Stanford PhDs 2019, 60M Pioneers, minepi.com/chigalex1, code CHIGALEX1, real name as ID, lightning every 24h"
+    },
+    {
+      "title": "CHAPTER 2 - SECURITY CIRCLE - ChiShona",
+      "summary": "After 3 days, 3-5 trusted people 20% each =100% boost, referral 25% bonus"
+    },
+    {
+      "title": "CHAPTER 3 - PI WALLET & 24 WORDS - ChiShona",
+      "summary": "24 WORDS = BANK MASTER KEY! Write on PAPER twice, NEVER screenshot, Test Pi faucet 100"
+    },
+    {
+      "title": "CHAPTER 4 - KYC & MAINNET - ChiShona",
+      "summary": "KYC FREE, docs ZW green ID, bright room, 8 steps checklist"
+    },
+    {
+      "title": "CHAPTER 5 - GCV 314159 - ChiShona",
+      "summary": "GCV not exchange price, Doris Yin, MapOfPi chicken 0.00001 Pi"
+    },
+    {
+      "title": "CHAPTER 6 - EDUCATION & MISSION - ChiShona",
+      "summary": "Learn Practice Teach 2 to 1M Pioneers, 2030 farmer sells maize for Pi"
+    },
+    {
+      "title": "CHAPTER 7 - SECURITY & SCAM - ChiShona",
+      "summary": "5 Golden Rules: never share 24 words QR, only official apps"
+    }
+  ],
+  "invite_code": "CHIGALEX1",
+  "backend": "https://chigalex1-backend.onrender.com",
+  "gcv": "$314,159"
 }
