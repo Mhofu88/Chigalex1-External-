@@ -1,37 +1,40 @@
 {
-  "code": "ss",
-  "label": "Swati - SiSwati ★ FULL",
+  "code": "sw",
+  "label": "Swahili - Kiswahili ★ FULL",
+  "select_language": "Select Language",
   "chapters": [
     {
-      "title": "CHAPTER 1 - REGISTRATION - SiSwati",
-      "summary": "Stanford PhDs 2019, 60M Pioneers, minepi.com/chigalex1, code CHIGALEX1, real name as ID, lightning every 24h"
+      "title": "CHAPTER 1 — REGISTRATION - Kiswahili",
+      "body": "Pi Network Stanford PhDs 2019, 60M Pioneers 230 countries, minepi.com/chigalex1 code CHIGALEX1 real name as ID, lightning every 24h. Translated to Kiswahili."
     },
     {
-      "title": "CHAPTER 2 - SECURITY CIRCLE - SiSwati",
-      "summary": "After 3 days, 3-5 trusted people 20% each =100% boost, referral 25% bonus"
+      "title": "CHAPTER 2 — SECURITY CIRCLE - Kiswahili",
+      "body": "After 3 days add 3-5 trusted people 20% each =100% boost, referral 25% bonus. Base Rate x (SC+Referral+Lockup). Kiswahili."
     },
     {
-      "title": "CHAPTER 3 - PI WALLET & 24 WORDS - SiSwati",
-      "summary": "24 WORDS = BANK MASTER KEY! Write on PAPER twice, NEVER screenshot, Test Pi faucet 100"
+      "title": "CHAPTER 3 — PI WALLET & 24 WORDS - Kiswahili",
+      "body": "24 WORDS = BANK MASTER KEY! Write on PAPER twice 2 safe places, NEVER screenshot WhatsApp. Test Pi faucet 100. Harare story 2500 Pi stolen $787k. Kiswahili."
     },
     {
-      "title": "CHAPTER 4 - KYC & MAINNET - SiSwati",
-      "summary": "KYC FREE, docs ZW green ID, bright room, 8 steps checklist"
+      "title": "CHAPTER 4 — KYC & MAINNET - Kiswahili",
+      "body": "KYC FREE! Docs ZW green ID passport, SA ID smart card, NG NIN. Bright room no hat glasses, 4 corners ID, 8 steps checklist. Kiswahili."
     },
     {
-      "title": "CHAPTER 5 - GCV 314159 - SiSwati",
-      "summary": "GCV not exchange price, Doris Yin, MapOfPi chicken 0.00001 Pi"
+      "title": "CHAPTER 5 — GCV $314,159 - Kiswahili",
+      "body": "GCV not exchange price! Doris Yin community consensus, Pi 3.14159 x100k, Farmer 1000 Pi = $314M dream, MapOfPi chicken 0.00001 Pi. Kiswahili."
     },
     {
-      "title": "CHAPTER 6 - EDUCATION & MISSION - SiSwati",
-      "summary": "Learn Practice Teach 2 to 1M Pioneers, 2030 farmer sells maize for Pi"
+      "title": "CHAPTER 6 — EDUCATION & MISSION - Kiswahili",
+      "body": "Learn→Practice→Teach 2→1M Pioneers, 3-5 years not get-rich-quick, Vision 2030 farmer sells maize for Pi. Kiswahili."
     },
     {
-      "title": "CHAPTER 7 - SECURITY & SCAM - SiSwati",
-      "summary": "5 Golden Rules: never share 24 words QR, only official apps"
+      "title": "CHAPTER 7 — SECURITY & SCAM - Kiswahili",
+      "body": "5 Golden Rules: never share 24 words QR, only official minepi.com Pi Browser wallet.pinet.com, don't sell before Mainnet, @PiCoreTeam. Kiswahili."
     }
   ],
   "invite_code": "CHIGALEX1",
   "backend": "https://chigalex1-backend.onrender.com",
+  "education_hub": "https://chigalex1-external.onrender.com",
+  "bizappzw": "https://bizappzw.co.zw/",
   "gcv": "$314,159"
 }
