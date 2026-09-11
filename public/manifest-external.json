@@ -1,0 +1,37 @@
+{
+  "name": "Chigalex1 External Africa - Pioneer Education Hub 28 Languages",
+  "short_name": "Chigalex1 Africa",
+  "description": "Empowering 1.4 Billion Africans with Pi Network education in 28 indigenous languages. Learn Pi, Protect Pi at GCV $314,159, Build Africa's Digital Economy. No Pioneer Left Behind.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#fbbf24",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
